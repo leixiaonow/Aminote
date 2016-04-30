@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/dialog_background" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:background="@color/dialog_background" android:paddingLeft="@dimen/label_selector_dialog_padding_left" android:layout_width="fill_parent" android:layout_height="@dimen/label_selector_dialog_custom_label_height">
+        <TextView android:textSize="@dimen/label_selector_dialog_custom_label_text_size" android:textColor="@color/system_stress_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="7.0dip" android:text="@string/label_selector_dialog_custom_label_text" android:singleLine="true" android:layout_alignParentBottom="true" />
+        <CheckBox android:id="@+id/label_select_custom_label" android:layout_width="@dimen/label_selector_dialog_checkbox_width" android:layout_height="wrap_content" android:layout_marginRight="@dimen/label_selector_dialog_checkbox_margin_right" android:layout_marginBottom="4.0dip" android:scaleType="centerInside" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" style="@style/ChickBgEffect" />
+    </RelativeLayout>
+    <com.gionee.note.app.LabelSelectorListView android:id="@+id/label_select_list" android:layout_width="fill_parent" android:layout_height="wrap_content" android:divider="@null" />
+    <LinearLayout android:orientation="horizontal" android:background="@color/dialog_background" android:layout_width="fill_parent" android:layout_height="@dimen/label_selector_dialog_button_height">
+        <TextView android:textSize="@dimen/label_selector_dialog_button_text_size" android:textColor="@color/dialog_cancel_text_color" android:gravity="center" android:id="@+id/label_select_cancel" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/button_cancel" android:layout_weight="1.0" style="@style/ChickBgEffect" />
+        <TextView android:textSize="@dimen/label_selector_dialog_button_text_size" android:textColor="@color/dialog_ok_text_color" android:gravity="center" android:id="@+id/label_select_sure" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/button_sure" android:layout_weight="1.0" style="@style/ChickBgEffect" />
+    </LinearLayout>
+</LinearLayout>

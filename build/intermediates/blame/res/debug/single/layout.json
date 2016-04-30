@@ -1,0 +1,666 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_confirm_dialog_ly.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_confirm_dialog_ly.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_preference_information.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_preference_information.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\attachment_selector_layout.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\attachment_selector_layout.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_preference_detail.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_preference_detail.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\note_main_activity_title_layout.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\note_main_activity_title_layout.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_divider.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_divider.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_expandable_list_content.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_expandable_list_content.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_select_dialog.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_select_dialog.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_magicbar_menu_item.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_magicbar_menu_item.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\new_note_activity_footer_layout.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\new_note_activity_footer_layout.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\signature_input_layout.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\signature_input_layout.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\note_main_fragment_layout.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\note_main_fragment_layout.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_determinate_progress_dialog_ly.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_determinate_progress_dialog_ly.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_select_dialog_item.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_select_dialog_item.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_preference_widget_switch.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_preference_widget_switch.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\import_backup_config_dialog_content_ly.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\import_backup_config_dialog_content_ly.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\picture_generate_dialog.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\picture_generate_dialog.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_indeterminate_progress_dialog_ly.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_indeterminate_progress_dialog_ly.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\extended_standard_title_ly_rigth_imageview.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\extended_standard_title_ly_rigth_imageview.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_expandable_list_group_wrapper.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_expandable_list_group_wrapper.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_action_bar_home.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_action_bar_home.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_datepicker_dialog_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_datepicker_dialog_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_preference_checkbox_and_click_right_btn.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_preference_checkbox_and_click_right_btn.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_text_toolbar.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_text_toolbar.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_preference_checkbox_and_click.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_preference_checkbox_and_click.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\widget_4x_no_image.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\widget_4x_no_image.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_seekbar_dialog.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_seekbar_dialog.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\note_main_activity_search_title_layout.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\note_main_activity_search_title_layout.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_list_menu_item_icon.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_actionbar_container.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_actionbar_container.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_time_picker_dialog.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_time_picker_dialog.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_resolve_list_item_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_resolve_list_item_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\label_note_activity_content_layout.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\label_note_activity_content_layout.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_multichoice_select_action_mode_layout.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_multichoice_select_action_mode_layout.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_preference_list_fragment.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_preference_list_fragment.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_breadcrumbs_in_fragment.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_breadcrumbs_in_fragment.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\shared_image_preview_title.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\shared_image_preview_title.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_number_picker.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_number_picker.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_list_menu_item_checkbox.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\note_main_activity_action_mode_title_layout.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\note_main_activity_action_mode_title_layout.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\preview_pager_layout.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\preview_pager_layout.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_preference_list_content.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_preference_list_content.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\widget_4x_image.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\widget_4x_image.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\sound_player_layout.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\sound_player_layout.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\setting_title_layout.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\setting_title_layout.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_simple_spinner_dropdown_item.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_action_mode_close_item.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_action_mode_close_item.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_expanded_menu_layout.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\edit_page_label_item.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\edit_page_label_item.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_alert_dialog_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_alert_dialog_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_action_bar_up_container.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\fb_feedback_record_ly.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\fb_feedback_record_ly.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_dialog_button_panel.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_dialog_button_panel.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\label_custom_item.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\label_custom_item.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_preference_widget_checkbox.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_preference_widget_checkbox.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\attach_picture_selector_layout.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\attach_picture_selector_layout.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\photoview_activity_layout.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\photoview_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\fb_attach_manager_content_ly.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\fb_attach_manager_content_ly.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_search_view.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_search_view.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_action_bar_title_item.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\note_main_activity_content_layout.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\note_main_activity_content_layout.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\note_item_have_image.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\note_item_have_image.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_time_picker.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_time_picker.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\new_note_activity_title_layout.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\new_note_activity_title_layout.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_list_menu_item_layout.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\label_search_activity.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\label_search_activity.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\import_backup_progress_dialog_ly.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\import_backup_progress_dialog_ly.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_preference_child.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_preference_child.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_preference_category.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_preference_category.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\setting_content_layout.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\setting_content_layout.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\label_selector_item.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\label_selector_item.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\widget_2x.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\widget_2x.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\home_view_layout.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\home_view_layout.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_preference_header_item.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_preference_header_item.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_alert_dialog_title.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_alert_dialog_title.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_preference.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_preference.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_alert_dialog_light_fullscreen.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_alert_dialog_light_fullscreen.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\recommand_grid_view_item_ly.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\recommand_grid_view_item_ly.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\label_custom_content_layout.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\label_custom_content_layout.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_simple_spinner_item.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_simple_spinner_item.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\label_custom_title_layout.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\label_custom_title_layout.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_screen_action_bar_overlay.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_screen_action_bar_overlay.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_select_dialog_multichoice.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_select_dialog_multichoice.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\preview_layout.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\preview_layout.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_simple_dropdown_hint.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\label_selector_layout.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\label_selector_layout.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\key_input.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\key_input.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\abstract_note_activity_layout.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\abstract_note_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_resolver_grid.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_resolver_grid.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\label_note_activity_title_layout.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\label_note_activity_title_layout.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\sound_recorder_layout.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\sound_recorder_layout.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\fb_feedback_record_item_reply_item_ly.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\fb_feedback_record_item_reply_item_ly.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\attachment_selector_item.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\attachment_selector_item.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\pic_selector_item.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\pic_selector_item.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\date_time_picker_dialog.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\date_time_picker_dialog.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\aboutus_content_layout.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\aboutus_content_layout.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_date_picker.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_date_picker.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\ai_activity_content_ly.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\ai_activity_content_ly.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_progress_dialog.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_progress_dialog.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\photeview_pager_image.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\photeview_pager_image.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_alert_dialog_progress.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_alert_dialog_progress.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_list_menu_item_radio.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_action_bar_view.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_action_bar_view.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_list_content_simple.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_list_content_simple.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_magicbar_listview_item.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_magicbar_listview_item.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\new_note_activity_content_layout.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\new_note_activity_content_layout.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\new_note_activity_content_ai_ly.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\new_note_activity_content_ai_ly.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_screen_action_bar.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_screen_action_bar.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\data_flow_dialog.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\data_flow_dialog.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_screen_dialog.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_screen_dialog.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_resolve_list_item_dark.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_resolve_list_item_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\extended_standard_title_ly_rigth_textview.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\extended_standard_title_ly_rigth_textview.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\fb_feedback_record_item_ly.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\fb_feedback_record_item_ly.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_strong_hint_dialog.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_strong_hint_dialog.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_preference_dialog_edittext.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_preference_dialog_edittext.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\fb_new_feedback_content_ly.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\fb_new_feedback_content_ly.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\search_label_item.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\search_label_item.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\note_item_no_image.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\note_item_no_image.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_edit_mode_btn.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_edit_mode_btn.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\note_search_fragment_layout.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\note_search_fragment_layout.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_date_picker_dialog.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_date_picker_dialog.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\note_main_activity_action_mode_footer_layout.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\note_main_activity_action_mode_footer_layout.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_multichoice_checkbox.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_multichoice_checkbox.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_preference_list_content_single.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_preference_list_content_single.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\web_page_activity_content_ly.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\web_page_activity_content_ly.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_preference_widget_seekbar.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_preference_widget_seekbar.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_actionbar_menu_item.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_actionbar_menu_item.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout\\amigo_select_dialog_singlechoice.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout\\amigo_select_dialog_singlechoice.xml"
+    }
+]

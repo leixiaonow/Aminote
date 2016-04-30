@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="amigo_time_picker_dialog_title">Tijd instellen</string>
+    <string name="amigo_date_picker_dialog_title">Datum instellen</string>
+    <string name="amigo_date_time_done">Klaar</string>
+    <string name="amigo_copy">Kopieer</string>
+    <string name="amigo_paste">Plakken</string>
+    <string name="amigo_cut">Knippen</string>
+    <string name="amigo_selectAll">Selecteer alles</string>
+    <string name="amigo_select">Selecteer</string>
+    <string name="amigo_inputMethod">Invoermethode</string>
+    <string name="amigo_action_bar_up_description">Navigeer naar boven</string>
+    <string name="amigo_action_bar_home_description">Navigeer naar home</string>
+    <string name="amigo_smart_full_btn_label">OK</string>
+    <string name="amigo_capital_on">Aan</string>
+    <string name="amigo_capital_off">Uit</string>
+    <string name="amigo_cancel">Cancel</string>
+    <string name="amigo_action_mode_done">Klaar</string>
+    <string name="amigo_activity_resolver_use_always">Altijd</string>
+    <string name="amigo_activity_resolver_use_once">Alleen nu</string>
+    <string name="amigo_back_button_label">Terug</string>
+    <string name="amigo_chooseActivity">Kies een actie:</string>
+    <string name="amigo_next_button_label">Volgende</string>
+    <string name="amigo_no">Cancel</string>
+    <string name="amigo_noApplications">Geen enkele app kan deze taak uitvoeren</string>
+    <string name="amigo_ok">Ok</string>
+    <string name="amigo_skip_button_label">Overslaan</string>
+    <string name="amigo_system_label">Android System</string>
+    <string name="amigo_whichApplication">Voer actie uit met:</string>
+    <string name="amigo_yes">OK</string>
+    <string name="amigo_app_name">Amigo UI</string>
+</resources>

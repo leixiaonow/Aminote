@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:minHeight="@dimen/amigo_magicbar_list_item_height" android:paddingStart="24.0dip" android:paddingEnd="24.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <amigoui.widget.AmigoTextView android:textAppearance="?android:textAppearanceMedium" android:textColor="?android:actionMenuTextColor" android:gravity="center_vertical" android:id="@+id/amigo_magic_listitem_textview" android:layout_width="0.0dip" android:layout_height="wrap_content" android:minHeight="?android:listPreferredItemHeightSmall" android:layout_weight="1.0" />
+    <amigoui.widget.AmigoCheckBox android:id="@+id/amigo_magic_listitem_checkbox" android:focusable="false" android:visibility="gone" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</LinearLayout>

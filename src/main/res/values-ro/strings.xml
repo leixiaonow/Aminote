@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="amigo_time_picker_dialog_title">Setare oră</string>
+    <string name="amigo_date_picker_dialog_title">Setare dată</string>
+    <string name="amigo_date_time_done">Realizat</string>
+    <string name="amigo_copy">Copiere</string>
+    <string name="amigo_paste">Lipire</string>
+    <string name="amigo_cut">Tăiere</string>
+    <string name="amigo_selectAll">Selectare toate</string>
+    <string name="amigo_select">Selectare</string>
+    <string name="amigo_inputMethod">Metodă introducere</string>
+    <string name="amigo_action_bar_up_description">Navigare sus</string>
+    <string name="amigo_action_bar_home_description">Navigare acasă</string>
+    <string name="amigo_smart_full_btn_label">OK</string>
+    <string name="amigo_capital_on">ON</string>
+    <string name="amigo_capital_off">OFF</string>
+    <string name="amigo_cancel">Anulare</string>
+    <string name="amigo_action_mode_done">Realizare</string>
+    <string name="amigo_activity_resolver_use_always">Întodeauna</string>
+    <string name="amigo_activity_resolver_use_once">O dată</string>
+    <string name="amigo_back_button_label">Înapoi</string>
+    <string name="amigo_chooseActivity">Alege o acțiune</string>
+    <string name="amigo_next_button_label">Următorul</string>
+    <string name="amigo_no">Anulare</string>
+    <string name="amigo_noApplications">Nici-o aplicație nu poate realiza această acțiune.</string>
+    <string name="amigo_ok">OK</string>
+    <string name="amigo_skip_button_label">Săritură</string>
+    <string name="amigo_system_label">Android Sistem</string>
+    <string name="amigo_whichApplication">Realizare acțiune utilizând</string>
+    <string name="amigo_yes">OK</string>
+    <string name="amigo_app_name">UI Amigo</string>
+</resources>

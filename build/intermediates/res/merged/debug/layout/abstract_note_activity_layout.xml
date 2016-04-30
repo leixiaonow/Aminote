@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@+id/abstract_note_activity_layout_root" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@+id/abstract_note_activity_layout_head" android:background="@color/abstract_note_activity_layout_head_default_bg" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true">
+        <FrameLayout android:id="@+id/abstract_note_activity_layout_title" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/abstract_note_activity_title_height" />
+    </FrameLayout>
+    <FrameLayout android:id="@+id/abstract_note_activity_layout_content" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@+id/abstract_note_activity_layout_footer" android:layout_below="@+id/abstract_note_activity_layout_head" />
+    <FrameLayout android:id="@+id/abstract_note_activity_layout_footer" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/abstract_note_activity_footer_height" android:layout_alignParentBottom="true" />
+</RelativeLayout>

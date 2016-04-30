@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<amigoui.widget.AmigoCheckedTextView android:textAppearance="?android:textAppearanceMedium" android:textSize="@dimen/amigo_textSizeAlertDialogListItem" android:textColor="?amigo_dialog_content_text_color" android:ellipsize="marquee" android:gravity="center_vertical" android:id="@+id/amigo_text1" android:paddingLeft="@dimen/amigo_alert_dialog_title_margin_left" android:paddingRight="@dimen/amigo_list_item_tailicon_margin_right" android:layout_width="fill_parent" android:layout_height="@dimen/amigo_AlertDialogListItemHeight" android:checkMark="?android:listChoiceIndicatorSingle" android:minHeight="?android:listPreferredItemHeightSmall"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="amigo_time_picker_dialog_title">ضبط الوقت</string>
+    <string name="amigo_date_picker_dialog_title">ضبط التاريخ</string>
+    <string name="amigo_date_time_done">تم</string>
+    <string name="amigo_copy">نسخ</string>
+    <string name="amigo_paste">لصق</string>
+    <string name="amigo_cut">قص</string>
+    <string name="amigo_selectAll">تحديد الكل</string>
+    <string name="amigo_select">تحديد</string>
+    <string name="amigo_inputMethod">طريقة الإدخال</string>
+    <string name="amigo_smart_full_btn_label">موافق</string>
+    <string name="amigo_capital_on">تشغيل</string>
+    <string name="amigo_capital_off">إيقاف</string>
+    <string name="amigo_cancel">إلغاء</string>
+    <string name="amigo_action_mode_done">تم</string>
+    <string name="amigo_activity_resolver_use_always">دائما</string>
+    <string name="amigo_activity_resolver_use_once">مرّة واحدة</string>
+    <string name="amigo_back_button_label">عودة</string>
+    <string name="amigo_chooseActivity">اختيار إجراء</string>
+    <string name="amigo_next_button_label">التالي</string>
+    <string name="amigo_no">إلغاء</string>
+    <string name="amigo_noApplications">لا توجد التطابيق التي يمكن أن توفر هذا العمل</string>
+    <string name="amigo_ok">موافق</string>
+    <string name="amigo_skip_button_label">انتقال</string>
+    <string name="amigo_system_label">نظام أندرويد</string>
+    <string name="amigo_whichApplication">تواصل مع</string>
+    <string name="amigo_yes">موافق</string>
+</resources>

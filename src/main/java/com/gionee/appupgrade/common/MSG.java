@@ -1,0 +1,40 @@
+package com.gionee.appupgrade.common;
+
+public class MSG {
+    public static final int CONTINUE_DOWNLOADING = 10019;
+    public static final int DOWNLOAD_COMPLETE = 10001;
+    public static final int DOWNLOAD_PAUSE = 10015;
+    public static final int DOWNLOAD_PROGRESS = 10004;
+    public static final int DOWNLOAD_TASK_COMPLETED = 10027;
+    public static final int ERROR_EMMC_NOSPACE = 10034;
+    public static final int ERROR_LOCAL_FILE_NOT_FOUND = 10030;
+    public static final int ERROR_LOCAL_FILE_VERIFY_ERROR = 10031;
+    public static final int ERROR_LOW_MEMORY = 10033;
+    public static final int ERROR_OLD_APK_WRONG = 10035;
+    public static final int ERROR_PATCH_FILE_ERROR = 10032;
+    public static final int ERROR_UPGRADING = 10029;
+    public static final int HAS_NEW_VERSION = 10016;
+    public static final int HAS_NEW_VERSION_NOT_AUTO = 10021;
+    public static final int HAS_NOT_NEW_VERSION = 10017;
+    public static final int HAS_NOT_NEW_VERSION_NOT_AUTO = 10022;
+    public static final int INSTALL_COMPLETE = 10011;
+    public static final int INSTALL_FAILED = 10012;
+    public static final int MAKE_FULL_PACKAGE_FAILED = 10024;
+    public static final int NOTIFY_DICK_NOSPACE = 10005;
+    public static final int NOTIFY_DOWNLOAD_NETWORK_ERROR = 10007;
+    public static final int NOTIFY_FILE_ERROR = 10002;
+    public static final int NOTIFY_FILE_NOT_EXISTS = 10010;
+    public static final int NOTIFY_NO_SDCARD = 10008;
+    public static final int NOTIFY_REMOTE_FILE_NOTFOUND = 10003;
+    public static final int NO_MORE_THAN_12_HOUR = 10018;
+    public static final int PATCH_FILE_DOWNLOAD_COMPLETE = 10026;
+    public static final int REMOVE_CLIENT = 10013;
+    public static final int SEND_DOWNLOAD_START_REQUEST = 10028;
+    public static final int SHOW_CHECKING_DIALOG = 10020;
+    public static final int START_DOWNLOAD = 10009;
+    public static final int START_INSTALL = 10014;
+    public static final int SUCCESS = 10000;
+    public static final int UPDATE_DOWNLOAD_SERVER_CONNECTION_FAILED = 10006;
+    public static final int UPDATE_SERVER_CONNECTION_FAILED = 10023;
+    public static final int VERIFY_FULL_PACKAGE_FAILED = 10025;
+}

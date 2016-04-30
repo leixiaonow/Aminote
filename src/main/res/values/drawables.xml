@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="amigo_window_background_light">#fffdfdfd</item>
+    <item type="drawable" name="amigo_window_background_dark">#ff222222</item>
+    <item type="drawable" name="chick_bg_pressed">#ffff9000</item>
+    <item type="drawable" name="note_card_chick_bg_pressed">#33000000</item>
+    <item type="drawable" name="transparent_drawable">#00000000</item>
+</resources>

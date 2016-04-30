@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color-v21\\label_selector_dialog_list_item_text_color.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\color-v21\\label_selector_dialog_list_item_text_color.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color-v21\\ai_search_drawable_tint_color.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\color-v21\\ai_search_drawable_tint_color.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color-v21\\search_page_label_item_color.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\color-v21\\search_page_label_item_color.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color-v21\\dialog_cancel_text_color.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\color-v21\\dialog_cancel_text_color.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color-v21\\action_bar_image_color.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\color-v21\\action_bar_image_color.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color-v21\\action_bar_text_color.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\color-v21\\action_bar_text_color.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color-v21\\dialog_ok_text_color.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\color-v21\\dialog_ok_text_color.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color-v21\\amigo_secondary_text_dark.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\color-v21\\amigo_secondary_text_dark.xml"
+    }
+]

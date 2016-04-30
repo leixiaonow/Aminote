@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\anim\\amigo_decelerate_interpolator.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\anim\\amigo_decelerate_interpolator.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\anim\\amigo_activity_open_exit.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\anim\\amigo_activity_open_exit.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_enter.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\anim\\dialog_enter.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\anim\\searchview_zoom.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\anim\\searchview_zoom.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\anim\\amigo_overshoot_interpolator.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\anim\\amigo_overshoot_interpolator.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_exit.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\anim\\dialog_exit.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\anim\\amigo_task_close_exit.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\anim\\amigo_task_close_exit.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\anim\\amigo_dialog_exit.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\anim\\amigo_dialog_exit.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\anim\\amigo_task_open_enter.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\anim\\amigo_task_open_enter.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\anim\\amigo_wallpaper_close_exit.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\anim\\amigo_wallpaper_close_exit.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\anim\\amigo_activity_close_enter.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\anim\\amigo_activity_close_enter.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\anim\\amigo_activity_open_enter.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\anim\\amigo_activity_open_enter.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\anim\\amigo_activity_close_exit.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\anim\\amigo_activity_close_exit.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\anim\\amigo_wallpaper_close_enter.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\anim\\amigo_wallpaper_close_enter.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\anim\\amigo_searchview_text.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\anim\\amigo_searchview_text.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\anim\\amigo_task_close_enter.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\anim\\amigo_task_close_enter.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\anim\\amigo_searchview_zoom.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\anim\\amigo_searchview_zoom.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\anim\\amigo_task_open_exit.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\anim\\amigo_task_open_exit.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\anim\\amigo_wallpaper_open_exit.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\anim\\amigo_wallpaper_open_exit.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\anim\\amigo_wallpaper_open_enter.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\anim\\amigo_wallpaper_open_enter.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\anim\\amigo_dialog_enter.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\anim\\amigo_dialog_enter.xml"
+    }
+]

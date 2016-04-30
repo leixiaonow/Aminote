@@ -1,0 +1,422 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:2:1-97:12
+	package
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:2:167-195
+		INJECTED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml
+	android:sharedUserId
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:2:70-105
+	android:versionName
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:2:137-166
+		INJECTED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:2:106-136
+		INJECTED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:2:11-69
+	platformBuildVersionName
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:2:226-264
+	platformBuildVersionCode
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:2:196-225
+uses-sdk
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:3:5-74
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\AndroidStudioProject\Aminote\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\AndroidStudioProject\Aminote\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\AndroidStudioProject\Aminote\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\AndroidStudioProject\Aminote\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\AndroidStudioProject\Aminote\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\AndroidStudioProject\Aminote\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\AndroidStudioProject\Aminote\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.commit451:PhotoView:1.2.5] C:\AndroidStudioProject\Aminote\build\intermediates\exploded-aar\com.commit451\PhotoView\1.2.5\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-v4:23.3.0] C:\AndroidStudioProject\Aminote\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.3.0] C:\AndroidStudioProject\Aminote\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:3:42-71
+		INJECTED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:3:15-41
+		INJECTED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_MEDIA_STORAGE
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:4:5-78
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:4:22-75
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:6:5-75
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:6:22-72
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.INTERNET
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:11:22-73
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:15:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:16:5-68
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:16:22-65
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:17:5-73
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:17:22-70
+uses-permission#com.gionee.alarm.permission.SET_ACCURATE_WAKE_ALARM
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:18:5-91
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:18:22-88
+uses-permission#com.gionee.youju.statistics.permission.READ_PROVIDER
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:19:5-92
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:19:22-89
+uses-permission#com.gionee.youju.statistics.permission.WRITE_PROVIDER
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:20:5-93
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:20:22-90
+uses-permission#android.permission.MANAGE_DOCUMENTS
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:21:5-75
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:21:22-72
+uses-permission#android.permission.GET_TASKS
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:22:22-65
+uses-permission#com.gionee.launcher.permission.PRESSURE_SENSOR
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:23:5-86
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:23:22-83
+application
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:24:5-96:19
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\AndroidStudioProject\Aminote\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\AndroidStudioProject\Aminote\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\AndroidStudioProject\Aminote\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\AndroidStudioProject\Aminote\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\AndroidStudioProject\Aminote\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\AndroidStudioProject\Aminote\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\AndroidStudioProject\Aminote\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\AndroidStudioProject\Aminote\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:24:18-58
+	android:allowBackup
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:24:143-169
+	android:icon
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:24:59-95
+	android:restoreAnyVersion
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:24:170-202
+	android:logo
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:24:203-239
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:24:96-142
+meta-data#BaiduMobAd_STAT_ID
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:25:9-83
+	android:value
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:25:54-80
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:25:20-53
+meta-data#BaiduMobAd_CHANNEL
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:26:9-79
+	android:value
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:26:54-76
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:26:20-53
+meta-data#FeedBack_AppId
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:27:9-101
+	android:value
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:27:50-98
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:27:20-49
+meta-data#BaiduMobAd_EXCEPTION_LOG
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:28:9-83
+	android:value
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:28:60-80
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:28:20-59
+meta-data#BaiduMobAd_SEND_STRATEGY
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:29:9-88
+	android:value
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:29:60-85
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:29:20-59
+meta-data#AmigoAlarmAlignPermissioin
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:30:9-145
+	android:value
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:30:62-142
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:30:20-61
+activity#com.gionee.note.app.NoteMainActivity
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:31:9-40:20
+	android:screenOrientation
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:31:188-224
+	android:label
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:31:64-104
+	android:launchMode
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:31:157-187
+	android:theme
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:31:19-63
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:31:105-156
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:34:17-76
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:34:27-73
+intent-filter#android.intent.category.DEFAULT+note.intent.action.search
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:36:13-39:29
+action#note.intent.action.search
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:37:17-68
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:37:25-65
+activity-alias#com.gionee.note.HomeActivity
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:41:9-47:26
+	android:screenOrientation
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:41:186-222
+	android:label
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:41:70-110
+	android:launchMode
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:41:155-185
+	android:targetActivity
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:41:223-284
+	android:theme
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:41:25-69
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:41:111-154
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.LAUNCHER
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:42:13-46:29
+category#android.intent.category.LAUNCHER
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:45:27-74
+activity#com.gionee.note.app.NewNoteActivity
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:48:9-60:20
+	android:screenOrientation
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:48:179-215
+	android:label
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:48:63-95
+	android:hardwareAccelerated
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:48:263-298
+	android:launchMode
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:48:147-178
+	android:configChanges
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:48:216-262
+	android:theme
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:48:19-62
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:48:96-146
+intent-filter#note.check.note.action
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:49:13-51:29
+action#note.check.note.action
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:50:17-65
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:50:25-62
+intent-filter#android.intent.category.DEFAULT+note.intent.action.createNewNote
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:52:13-55:29
+action#note.intent.action.createNewNote
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:53:17-75
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:53:25-72
+intent-filter#android.intent.category.DEFAULT+note.intent.action.from.camera
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:56:13-59:29
+action#note.intent.action.from.camera
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:57:17-73
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:57:25-70
+activity#com.gionee.note.app.LabelNoteActivity
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:61:9-157
+	android:screenOrientation
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:61:118-154
+	android:theme
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:61:19-64
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:61:65-117
+activity#com.gionee.note.photoview.PhotoViewActivity
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:62:9-158
+	android:screenOrientation
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:62:119-155
+	android:theme
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:62:19-59
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:62:60-118
+activity#com.gionee.note.photoview.PreviewActivity
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:63:9-196
+	android:screenOrientation
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:63:121-157
+	android:hardwareAccelerated
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:63:158-193
+	android:theme
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:63:19-63
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:63:64-120
+activity#com.gionee.note.app.LabelCustomActivity
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:64:9-161
+	android:screenOrientation
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:64:122-158
+	android:theme
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:64:19-66
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:64:67-121
+activity#com.gionee.note.app.SettingActivity
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:65:9-157
+	android:screenOrientation
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:65:118-154
+	android:theme
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:65:19-66
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:65:67-117
+activity#com.gionee.note.app.AboutUsActivity
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:66:9-157
+	android:screenOrientation
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:66:118-154
+	android:theme
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:66:19-66
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:66:67-117
+activity#com.gionee.note.feedback.NewFeedbackActivity
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:67:9-155
+	android:screenOrientation
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:67:116-152
+	android:theme
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:67:19-55
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:67:56-115
+activity#com.gionee.note.feedback.FeedbackRecordActivity
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:68:9-158
+	android:screenOrientation
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:68:119-155
+	android:theme
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:68:19-55
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:68:56-118
+activity#com.gionee.note.feedback.AttachmentManagerActivity
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:69:9-161
+	android:screenOrientation
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:69:122-158
+	android:theme
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:69:19-55
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:69:56-121
+activity#com.gionee.feedback.ui.FeedBackActivity
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:70:9-76
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:70:19-73
+activity#com.gionee.note.ai.AIActivity
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:71:9-140
+	android:screenOrientation
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:71:101-137
+	android:theme
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:71:19-55
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:71:56-100
+activity#com.gionee.note.ai.WebPageActivity
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:72:9-145
+	android:screenOrientation
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:72:106-142
+	android:theme
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:72:19-55
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:72:56-105
+activity#com.gionee.note.app.OnlineImageActivity
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:73:9-150
+	android:screenOrientation
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:73:111-147
+	android:theme
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:73:19-55
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:73:56-110
+provider#com.gionee.note.provider.NoteProvider
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:74:9-137
+	android:authorities
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:74:72-134
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:74:19-71
+receiver#com.gionee.note.widget.NoteWidgetProvider_2x
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:75:9-80:20
+	android:label
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:75:19-56
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:75:57-116
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:76:13-78:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:77:17-84
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:77:25-81
+meta-data#android.appwidget.provider
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:79:13-107
+	android:resource
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:79:66-104
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:79:24-65
+receiver#com.gionee.note.widget.NoteWidgetProvider_4x
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:81:9-86:20
+	android:label
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:81:19-56
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:81:57-116
+receiver#com.gionee.note.app.reminder.ReminderReceiver
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:87:9-95:20
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:87:19-79
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.TIME_SET+com.gionee.note.action.cancel_alarm+com.gionee.note.action.pop_reminder+com.gionee.note.action.widget_reminder
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:88:13-94:29
+action#com.gionee.note.action.pop_reminder
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:89:17-78
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:89:25-75
+action#com.gionee.note.action.widget_reminder
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:90:17-81
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:90:25-78
+action#com.gionee.note.action.cancel_alarm
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:91:17-78
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:91:25-75
+action#android.intent.action.TIME_SET
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:92:17-73
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:92:25-70
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:93:17-79
+	android:name
+		ADDED from C:\AndroidStudioProject\Aminote\src\main\AndroidManifest.xml:93:25-76

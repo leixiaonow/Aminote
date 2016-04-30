@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="bottom" android:orientation="vertical" android:id="@+id/amigo_substance_bar" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@+id/amigo_magicbar_shadow" android:background="@color/amigo_adaptive_color" android:layout_width="fill_parent" android:layout_height="1.0px" />
+    <LinearLayout android:orientation="vertical" android:id="@+id/amigo_magicbar_backgroud" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:gravity="center" android:layout_gravity="center_horizontal" android:orientation="horizontal" android:background="@android:color/transparent" android:paddingLeft="12.0dip" android:paddingRight="12.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <Button android:id="@+id/amigo_icon0" style="@style/Amigo.ActionBar.MagicBar.Item.Button" />
+            <Button android:id="@+id/amigo_icon1" style="@style/Amigo.ActionBar.MagicBar.Item.Button" />
+            <Button android:id="@+id/amigo_icon2" style="@style/Amigo.ActionBar.MagicBar.Item.Button" />
+            <Button android:id="@+id/amigo_icon3" style="@style/Amigo.ActionBar.MagicBar.Item.Button" />
+            <Button android:id="@+id/amigo_icon4" style="@style/Amigo.ActionBar.MagicBar.Item.Button" />
+        </LinearLayout>
+        <ListView android:id="@+id/amigo_listview" android:background="@android:color/transparent" android:visibility="gone" android:fadingEdgeLength="30.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:overScrollMode="never" android:requiresFadingEdge="vertical" />
+    </LinearLayout>
+</LinearLayout>

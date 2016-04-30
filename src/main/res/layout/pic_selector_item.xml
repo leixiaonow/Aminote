@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@+id/pic_layout" android:layout_width="wrap_content" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.gionee.note.app.view.PicSelectorItemView android:id="@+id/pic_selector_item_view" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="6.0dip" />
+</FrameLayout>

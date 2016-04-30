@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="widget_content_lines_2x">4</integer>
+    <integer name="amigo_completion_Threshold">2</integer>
+    <integer name="amigo_config_maxResolverActivityColumns">3</integer>
+    <integer name="amigo_halfLargeAnimTime">400</integer>
+    <integer name="amigo_largeAnimTime">800</integer>
+    <integer name="amigo_longAnimTime">500</integer>
+    <integer name="amigo_mediumAnimTime">250</integer>
+    <integer name="amigo_preference_fragment_scrollbarStyle">0x9000000</integer>
+    <integer name="amigo_preference_screen_header_scrollbarStyle">0x9000000</integer>
+    <integer name="amigo_preferences_left_pane_weight">4</integer>
+    <integer name="amigo_preferences_right_pane_weight">6</integer>
+    <integer name="amigo_shortAnimTime">200</integer>
+    <integer name="amigo_startOffset">300</integer>
+    <integer name="attachment_selector_dialog_grid_column">3</integer>
+    <integer name="home_note_item_column">2</integer>
+    <integer name="label_custom_edit_text_max_length">12</integer>
+</resources>

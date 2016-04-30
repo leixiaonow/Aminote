@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.gionee.note.app.view.EditScrollView android:scrollbarStyle="outsideOverlay" android:id="@+id/scrollview" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:orientation="vertical" android:id="@+id/new_note_label" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <com.gionee.note.app.view.EditLabelView android:id="@+id/new_note_label_content" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+                <View android:background="@color/note_edit_text_line_color" android:layout_width="fill_parent" android:layout_height="1.0px" />
+            </LinearLayout>
+            <com.gionee.note.app.view.NoteTitleEditText android:textSize="@dimen/edit_note_title_text_size" android:textStyle="bold" android:textColor="@color/note_title_color" android:gravity="top|left|center" android:id="@+id/new_note_title" android:background="@null" android:paddingLeft="@dimen/edit_note_content_padding_left" android:paddingTop="@dimen/edit_note_content_line_padding_top" android:paddingRight="@dimen/edit_note_content_padding_right" android:layout_width="fill_parent" android:layout_height="41.0dip" android:hint="@string/title_hint" android:singleLine="true" android:textCursorDrawable="@drawable/edit_cursor_dw" />
+            <com.gionee.note.app.view.NoteContentEditText android:textSize="@dimen/edit_note_content_text_size" android:textColor="@color/note_content_color" android:gravity="top|left|center" android:id="@+id/new_note_content" android:background="@null" android:paddingLeft="@dimen/edit_note_content_padding_left" android:paddingTop="10.0dip" android:paddingRight="@dimen/edit_note_content_padding_right" android:paddingBottom="@dimen/edit_note_content_padding_bottom" android:layout_width="fill_parent" android:layout_height="fill_parent" android:hint="@string/content_hint" android:textCursorDrawable="@drawable/cursor_dw" />
+        </LinearLayout>
+    </com.gionee.note.app.view.EditScrollView>
+    <ViewStub android:layout_gravity="bottom|left|center" android:id="@+id/ai_tip_view_stub" android:layout="@layout/new_note_activity_content_ai_ly" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:layout_marginBottom="50.0dip" />
+</merge>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <amigoui.widget.AmigoListView android:scrollbarAlwaysDrawVerticalTrack="true" android:scrollbarStyle="insideOverlay" android:id="@android:id/list" android:paddingLeft="@dimen/amigo_preference_fragment_padding_left" android:paddingTop="@dimen/amigo_preference_fragment_padding_top" android:paddingRight="@dimen/amigo_preference_fragment_padding_right" android:paddingBottom="@dimen/amigo_preference_fragment_padding_bottom" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="0.0px" android:drawSelectorOnTop="false" android:cacheColorHint="@android:color/transparent" android:layout_weight="1.0" />
+    <TextView android:gravity="center" android:id="@android:id/empty" android:padding="@dimen/amigo_preference_fragment_padding_side" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <RelativeLayout android:id="@+id/amigo_button_bar" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="0.0">
+        <Button android:id="@+id/amigo_back_button" android:layout_width="150.0dip" android:layout_height="wrap_content" android:layout_margin="5.0dip" android:text="@string/amigo_back_button_label" android:layout_alignParentLeft="true" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true">
+            <Button android:id="@+id/amigo_skip_button" android:visibility="gone" android:layout_width="150.0dip" android:layout_height="wrap_content" android:layout_margin="5.0dip" android:text="@string/amigo_skip_button_label" />
+            <Button android:id="@+id/amigo_next_button" android:layout_width="150.0dip" android:layout_height="wrap_content" android:layout_margin="5.0dip" android:text="@string/amigo_next_button_label" />
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

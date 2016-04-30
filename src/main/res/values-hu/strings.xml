@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="amigo_time_picker_dialog_title">Óra beállítása</string>
+    <string name="amigo_date_picker_dialog_title">Dátum beállítása</string>
+    <string name="amigo_date_time_done">Kész</string>
+    <string name="amigo_copy">Másol</string>
+    <string name="amigo_paste">Ragaszt</string>
+    <string name="amigo_cut">Vágás</string>
+    <string name="amigo_selectAll">Összes kiválasztása</string>
+    <string name="amigo_select">Választ</string>
+    <string name="amigo_inputMethod">Beviteli mód</string>
+    <string name="amigo_action_bar_up_description">Bőngészés fel</string>
+    <string name="amigo_action_bar_home_description">Haza bőngészés</string>
+    <string name="amigo_smart_full_btn_label">OK</string>
+    <string name="amigo_capital_on">BE</string>
+    <string name="amigo_capital_off">KI</string>
+    <string name="amigo_cancel">Lemond</string>
+    <string name="amigo_action_mode_done">Kész</string>
+    <string name="amigo_activity_resolver_use_always">Mindig</string>
+    <string name="amigo_activity_resolver_use_once">Egyszer</string>
+    <string name="amigo_back_button_label">Vissza</string>
+    <string name="amigo_chooseActivity">Válasszon egy műveletet</string>
+    <string name="amigo_next_button_label">Következő</string>
+    <string name="amigo_no">Lemond</string>
+    <string name="amigo_noApplications">Egy alkalmazás sem tudja végrehajtani ezt a műveletet.</string>
+    <string name="amigo_ok">OK</string>
+    <string name="amigo_skip_button_label">Ugrás</string>
+    <string name="amigo_system_label">Android rendszer</string>
+    <string name="amigo_whichApplication">Művelet végrehajtása a</string>
+    <string name="amigo_yes">OK</string>
+    <string name="amigo_app_name">Amigo UI</string>
+</resources>

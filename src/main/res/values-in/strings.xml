@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="amigo_time_picker_dialog_title">Atur waktu</string>
+    <string name="amigo_date_picker_dialog_title">Atur tanggal</string>
+    <string name="amigo_date_time_done">Selesai</string>
+    <string name="amigo_copy">salin</string>
+    <string name="amigo_paste">tempel</string>
+    <string name="amigo_cut">potong</string>
+    <string name="amigo_selectAll">pilih semua</string>
+    <string name="amigo_select">pilih</string>
+    <string name="amigo_inputMethod">metode masukan</string>
+    <string name="amigo_action_bar_up_description">Navigasi atas</string>
+    <string name="amigo_action_bar_home_description">Navigasi awal</string>
+    <string name="amigo_smart_full_btn_label">OK</string>
+    <string name="amigo_capital_on">Mati</string>
+    <string name="amigo_capital_off">Hidup</string>
+    <string name="amigo_cancel">Batal</string>
+    <string name="amigo_action_mode_done">Selesai</string>
+    <string name="amigo_activity_resolver_use_always">Selalu</string>
+    <string name="amigo_activity_resolver_use_once">Hanya sekali</string>
+    <string name="amigo_back_button_label">Kembali</string>
+    <string name="amigo_chooseActivity">Pilih tindakan</string>
+    <string name="amigo_next_button_label">Lanjut</string>
+    <string name="amigo_no">Batal</string>
+    <string name="amigo_noApplications">Tidak ada aplikasi dapat melakukan tindakan ini.</string>
+    <string name="amigo_ok">OK</string>
+    <string name="amigo_skip_button_label">Batal</string>
+    <string name="amigo_system_label">Sistem Android</string>
+    <string name="amigo_whichApplication">Selesaikan tindakan menggunakan</string>
+    <string name="amigo_yes">OK</string>
+    <string name="amigo_app_name">AmigoUI</string>
+</resources>

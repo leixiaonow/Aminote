@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="amigo_time_picker_dialog_title">समय निर्धारित करें</string>
+    <string name="amigo_date_picker_dialog_title">तारीख निर्धारित करें</string>
+    <string name="amigo_date_time_done">पूर्ण हुआ</string>
+    <string name="amigo_copy">प्रतिलिपि</string>
+    <string name="amigo_paste">चिपकाएँ</string>
+    <string name="amigo_cut">काटे</string>
+    <string name="amigo_selectAll">सभी का चयन करें</string>
+    <string name="amigo_select">चयन करें</string>
+    <string name="amigo_inputMethod">इनपुट विधि</string>
+    <string name="amigo_action_bar_up_description">नॅविगेट अप</string>
+    <string name="amigo_action_bar_home_description">नॅविगेट होम</string>
+    <string name="amigo_smart_full_btn_label">ठीक</string>
+    <string name="amigo_capital_on">ऑन</string>
+    <string name="amigo_capital_off">ऑफ</string>
+    <string name="amigo_cancel">रद्द करें</string>
+    <string name="amigo_action_mode_done">पूर्ण हुआ</string>
+    <string name="amigo_activity_resolver_use_always">सदैव</string>
+    <string name="amigo_activity_resolver_use_once">सिर्फ एक बार</string>
+    <string name="amigo_back_button_label">वापस</string>
+    <string name="amigo_chooseActivity">एक कार्रवाई चुनें</string>
+    <string name="amigo_next_button_label">अगला</string>
+    <string name="amigo_no">रद्द करें</string>
+    <string name="amigo_noApplications">कोई अप्लिकेशन इस कार्य को पूरा नही कर सकती है !.</string>
+    <string name="amigo_ok">ठीक</string>
+    <string name="amigo_skip_button_label">स्किप</string>
+    <string name="amigo_system_label">एंड्रॉयड प्रणाली</string>
+    <string name="amigo_whichApplication">कार्यवाही पूर्ण करने के लिए उपयोग करे</string>
+    <string name="amigo_yes">ठीक</string>
+    <string name="amigo_app_name">AmigoUI</string>
+</resources>

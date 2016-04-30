@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="amigo_time_picker_dialog_title">Zamanı ayarla</string>
+    <string name="amigo_date_picker_dialog_title">Tarihi ayarla</string>
+    <string name="amigo_date_time_done">Tamam</string>
+    <string name="amigo_copy">Kopyala</string>
+    <string name="amigo_paste">Yapıştır</string>
+    <string name="amigo_cut">Kes</string>
+    <string name="amigo_selectAll">Tümünü seç</string>
+    <string name="amigo_select">Seç</string>
+    <string name="amigo_inputMethod">Giriş methodu</string>
+    <string name="amigo_action_bar_up_description">Gexir</string>
+    <string name="amigo_action_bar_home_description">Eve götür</string>
+    <string name="amigo_smart_full_btn_label">Tamam</string>
+    <string name="amigo_capital_on">Açık</string>
+    <string name="amigo_capital_off">Kapalı</string>
+    <string name="amigo_cancel">İptal</string>
+    <string name="amigo_action_mode_done">Bitti</string>
+    <string name="amigo_activity_resolver_use_always">Herzaman</string>
+    <string name="amigo_activity_resolver_use_once">Yanlızca birkez</string>
+    <string name="amigo_back_button_label">Geri</string>
+    <string name="amigo_chooseActivity">Seçim yapın</string>
+    <string name="amigo_next_button_label">İleri</string>
+    <string name="amigo_no">İptal</string>
+    <string name="amigo_noApplications">Hiçbir uygulama bu işlemi gerçekleştiremez.</string>
+    <string name="amigo_ok">Tamam</string>
+    <string name="amigo_skip_button_label">Geç</string>
+    <string name="amigo_system_label">Android Sistemi</string>
+    <string name="amigo_whichApplication">Şununla tamamla:</string>
+    <string name="amigo_yes">Tamam</string>
+    <string name="amigo_app_name">DiscoveryUI</string>
+</resources>

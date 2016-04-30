@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="@dimen/sound_recorder_dialog_height">
+        <ImageView android:id="@+id/sound_recorder_point" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/sound_recorder_dialog_point_margin_left" android:src="@drawable/sound_recorder_dialog_point" android:layout_centerVertical="true" />
+        <TextView android:textSize="@dimen/sound_recorder_dialog_time_size" android:textColor="@color/sound_recorder_dialog_time_color" android:id="@+id/sound_recorder_time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/sound_recorder_dialog_time_margin_left" android:layout_toRightOf="@+id/sound_recorder_point" android:layout_centerVertical="true" />
+        <FrameLayout android:background="@drawable/sound_recorder_dialog_button_bg" android:layout_width="@dimen/sound_recorder_dialog_button_bg_size" android:layout_height="@dimen/sound_recorder_dialog_button_bg_size" android:layout_marginRight="@dimen/sound_recorder_dialog_button_margin_right" android:layout_alignParentRight="true" android:layout_centerVertical="true">
+            <ImageView android:id="@+id/sound_recorder_stop" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/media_stop" android:scaleType="centerInside" style="@style/noteCardChickBgEffect" />
+        </FrameLayout>
+    </RelativeLayout>
+</FrameLayout>

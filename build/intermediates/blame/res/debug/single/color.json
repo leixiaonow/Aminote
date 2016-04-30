@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color\\dialog_cancel_text_color.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\color\\dialog_cancel_text_color.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color\\amigo_primary_text_disable_only_dark.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\color\\amigo_primary_text_disable_only_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color\\new_note_title_share_color.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\color\\new_note_title_share_color.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color\\amigo_primary_text_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\color\\amigo_primary_text_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color\\amigo_primary_text_material_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\color\\amigo_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color\\amigo_alert_dialog_text_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\color\\amigo_alert_dialog_text_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color\\label_selector_dialog_list_item_text_color.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\color\\label_selector_dialog_list_item_text_color.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color\\new_note_action_bar_image_color.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\color\\new_note_action_bar_image_color.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color\\action_bar_image_color_top.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\color\\action_bar_image_color_top.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color\\amigo_primary_text_disable_only_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\color\\amigo_primary_text_disable_only_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color\\amigo_secondary_text_dark.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\color\\amigo_secondary_text_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color\\amigo_primary_text_nodisable_dark.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\color\\amigo_primary_text_nodisable_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color\\new_note_title_delete_color.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\color\\new_note_title_delete_color.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color\\amigo_secondary_text_nodisable_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\color\\amigo_secondary_text_nodisable_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color\\action_bar_image_color.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\color\\action_bar_image_color.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color\\amigo_switch_thumb.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\color\\amigo_switch_thumb.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color\\ai_search_drawable_tint_color.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\color\\ai_search_drawable_tint_color.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color\\amigo_edit_text.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\color\\amigo_edit_text.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color\\check_box_state_color.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\color\\check_box_state_color.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color\\action_bar_text_color.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\color\\action_bar_text_color.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color\\amigo_tertiary_text_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\color\\amigo_tertiary_text_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color\\search_page_label_item_color.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\color\\search_page_label_item_color.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color\\amigo_primary_text_nodisable_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\color\\amigo_primary_text_nodisable_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color\\label_custom_edit_sure_button.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\color\\label_custom_edit_sure_button.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color\\amigo_actionbar_tab_text_color_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\color\\amigo_actionbar_tab_text_color_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color\\dialog_ok_text_color.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\color\\dialog_ok_text_color.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color\\amigo_secondary_text_nodisable_dark.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\color\\amigo_secondary_text_nodisable_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color\\setting_list_item_text_color.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\color\\setting_list_item_text_color.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color\\amigo_action_menu_text.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\color\\amigo_action_menu_text.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color\\setting_list_signature_text_color.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\color\\setting_list_signature_text_color.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color\\amigo_tertiary_text_dark.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\color\\amigo_tertiary_text_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color\\amigo_secondary_text_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\color\\amigo_secondary_text_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\color\\amigo_primary_text_dark.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\color\\amigo_primary_text_dark.xml"
+    }
+]

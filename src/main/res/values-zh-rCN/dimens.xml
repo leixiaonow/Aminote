@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="amigo_actionbar_tabtext_text_size">16sp</dimen>
+    <dimen name="amigo_button_small_text_size">14sp</dimen>
+    <dimen name="amigo_dialogwindow_title_text_size">18sp</dimen>
+    <dimen name="amigo_edit_text_size">16sp</dimen>
+    <dimen name="amigo_large_inverse_text_size">22sp</dimen>
+    <dimen name="amigo_large_text_size">22sp</dimen>
+    <dimen name="amigo_light_large_inverse_text_size">22sp</dimen>
+    <dimen name="amigo_light_large_text_size">22sp</dimen>
+    <dimen name="amigo_light_medium_inverse_text_size">18sp</dimen>
+    <dimen name="amigo_light_medium_second_inverse_text_size">14sp</dimen>
+    <dimen name="amigo_light_medium_second_text_size">14sp</dimen>
+    <dimen name="amigo_light_medium_text_size">18sp</dimen>
+    <dimen name="amigo_light_small_inverse_text_size">12sp</dimen>
+    <dimen name="amigo_light_small_text_size">12sp</dimen>
+    <dimen name="amigo_magicbar_title_size">16sp</dimen>
+    <dimen name="amigo_medium_inverse_text_size">18sp</dimen>
+    <dimen name="amigo_medium_second_inverse_text_size">14sp</dimen>
+    <dimen name="amigo_medium_second_text_size">14sp</dimen>
+    <dimen name="amigo_medium_text_size">18sp</dimen>
+    <dimen name="amigo_popupmenu_large_text_size">18sp</dimen>
+    <dimen name="amigo_small_inverse_text_size">12sp</dimen>
+    <dimen name="amigo_small_text_size">12sp</dimen>
+    <dimen name="amigo_spinneritem_text_size">16sp</dimen>
+    <dimen name="amigo_textSizeAlertDialogBtn">16sp</dimen>
+    <dimen name="amigo_textview_listseparator_text_size">14sp</dimen>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@android:color/transparent" android:paddingLeft="@dimen/label_custom_list_item_padding_left" android:paddingRight="@dimen/label_custom_list_item_padding_right" android:layout_width="fill_parent" android:layout_height="@dimen/label_custom_list_item_height" android:minHeight="@dimen/label_custom_list_item_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@+id/label_custom_list_item_delete" android:layout_width="@dimen/label_custom_list_item_height" android:layout_height="@dimen/label_custom_list_item_height" android:src="@drawable/search_clear_icon" android:scaleType="centerInside" android:layout_alignParentRight="true" style="@style/label_custom_edit_button_style" />
+    <TextView android:textSize="@dimen/label_custom_list_item_text_size" android:textColor="@color/setting_list_item_text_color" android:gravity="center_vertical" android:id="@+id/label_custom_list_item_text" android:layout_width="fill_parent" android:layout_height="@dimen/label_custom_list_item_height" android:layout_toLeftOf="@+id/label_custom_list_item_delete" />
+</RelativeLayout>

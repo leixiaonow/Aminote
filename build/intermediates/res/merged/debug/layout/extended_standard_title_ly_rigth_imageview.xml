@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="horizontal" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="@dimen/freya_action_bar_head_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageButton android:id="@+id/freya_title_home" android:layout_width="@dimen/freya_action_bar_back_width" android:layout_height="fill_parent" android:src="@drawable/note_title_back_icon" android:tint="@color/home_page_white_color" style="@style/RippleEffect" />
+    <TextView android:textSize="@dimen/freya_action_bar_title_text_size" android:textColor="@color/home_page_white_color" android:ellipsize="marquee" android:gravity="center_vertical" android:id="@+id/freya_title_title" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/freya_action_bar_title_text_and_back_gap" android:singleLine="true" android:layout_toLeftOf="@+id/extender_standard_title_rigth_id" android:layout_toRightOf="@+id/freya_title_home" />
+    <ImageButton android:id="@+id/extender_standard_title_rigth_id" android:layout_width="@dimen/freya_action_bar_back_width" android:layout_height="fill_parent" android:src="@drawable/action_del_icon_enable" android:scaleType="centerInside" android:tint="@color/home_page_white_color" android:layout_alignParentRight="true" style="@style/RippleEffect" />
+</RelativeLayout>

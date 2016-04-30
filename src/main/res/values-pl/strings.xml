@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="amigo_time_picker_dialog_title">Ustaw czas</string>
+    <string name="amigo_date_picker_dialog_title">Ustaw datę</string>
+    <string name="amigo_date_time_done">Gotowy</string>
+    <string name="amigo_copy">Kopia</string>
+    <string name="amigo_paste">Pasta</string>
+    <string name="amigo_cut">Cięcie</string>
+    <string name="amigo_selectAll">Zaznacz wszystko</string>
+    <string name="amigo_select">Wybierać</string>
+    <string name="amigo_inputMethod">Metoda wprowadzania</string>
+    <string name="amigo_action_bar_up_description">Nawiguj w górę</string>
+    <string name="amigo_action_bar_home_description">Nawiguj do domu</string>
+    <string name="amigo_smart_full_btn_label">OK</string>
+    <string name="amigo_capital_on">ON</string>
+    <string name="amigo_capital_off">OFF</string>
+    <string name="amigo_cancel">Anulować</string>
+    <string name="amigo_action_mode_done">Gotowy</string>
+    <string name="amigo_activity_resolver_use_always">Zawsze</string>
+    <string name="amigo_activity_resolver_use_once">Tylko raz</string>
+    <string name="amigo_back_button_label">z powrotem</string>
+    <string name="amigo_chooseActivity">Wybierz akcję</string>
+    <string name="amigo_next_button_label">Następny</string>
+    <string name="amigo_no">Anulować</string>
+    <string name="amigo_noApplications">Brak aplikacje mogą wykonać tę czynność.</string>
+    <string name="amigo_ok">OK</string>
+    <string name="amigo_skip_button_label">Pomijać</string>
+    <string name="amigo_system_label">Systemu Android</string>
+    <string name="amigo_whichApplication">Kompletna działania za pomocą</string>
+    <string name="amigo_yes">OK</string>
+    <string name="amigo_app_name">Amigo UI</string>
+</resources>

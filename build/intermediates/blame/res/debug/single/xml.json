@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\xml\\widget_4x_info.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\xml\\widget_4x_info.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\xml\\widget_2x_info.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\xml\\widget_2x_info.xml"
+    }
+]

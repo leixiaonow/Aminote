@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:layout_gravity="center_horizontal" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@+id/amigo_pickers" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <amigoui.widget.AmigoNumberPicker android:id="@+id/amigo_month" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0" />
+        <amigoui.widget.AmigoNumberPicker android:id="@+id/amigo_day" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0" />
+        <amigoui.widget.AmigoNumberPicker android:id="@+id/amigo_year" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0" />
+    </LinearLayout>
+    <CalendarView android:id="@+id/amigo_calendar_view" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="245.0dip" android:layout_height="280.0dip" android:layout_weight="1.0" />
+</LinearLayout>

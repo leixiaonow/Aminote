@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:background="@color/note_main_activity_action_mode_footer_layout_divide_color" android:layout_width="fill_parent" android:layout_height="@dimen/note_main_activity_action_mode_footer_layout_divide_height" />
+    <LinearLayout android:gravity="top|center" android:orientation="horizontal" android:id="@+id/action_del_layout" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textSize="@dimen/note_main_activity_action_mode_footer_layout_item_text_size" android:textColor="@color/action_bar_text_color" android:gravity="center_horizontal" android:id="@+id/footer_edit_or_delete_action" android:paddingTop="@dimen/note_main_activity_action_mode_footer_layout_item_top_padding" android:layout_width="@dimen/note_main_activity_action_mode_footer_layout_item_width" android:layout_height="fill_parent" android:text="@string/note_action_edit_string" android:drawablePadding="@dimen/note_main_activity_action_mode_footer_layout_item_drawable_padding" style="@style/RippleEffect" />
+    </LinearLayout>
+</merge>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="amigo_preferences_prefer_dual_pane">false</bool>
+    <bool name="amigo_action_bar_embed_tabs">true</bool>
+    <bool name="amigo_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
+    <bool name="amigo_action_bar_expanded_action_views_exclusive">true</bool>
+</resources>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<amigoui.widget.AmigoButton android:id="@+id/amigo_left_btn" android:paddingLeft="@dimen/amigo_list_item_tailtext_margin_right" android:paddingRight="@dimen/amigo_list_item_tailtext_margin_right" android:layout_width="wrap_content" android:layout_height="?android:actionBarSize" android:minWidth="0.0dip" style="@style/AmigoEditModeStyle"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

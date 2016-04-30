@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\amigo_background_dark.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-nodpi-v4\\amigo_background_dark.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\amigo_background_light.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-nodpi-v4\\amigo_background_light.png"
+    }
+]

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@+id/note_tip_view" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/note_tip_image_top_margin" android:src="@drawable/note_tip_image" />
+        <TextView android:textSize="@dimen/note_tip_text_size" android:textColor="@color/note_tip_text_color" android:id="@+id/note_tip_text_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/note_tip_text_top_margin" />
+    </LinearLayout>
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.gionee.note.app.view.NoteRecyclerView android:id="@+id/home_recycler_view" android:paddingLeft="@dimen/home_activity_horizontal_margin" android:paddingBottom="4.0dip" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_alignParentTop="true" />
+        <View android:background="@drawable/recycle_ecoration_bg" android:layout_width="fill_parent" android:layout_height="8.0dip" android:layout_marginBottom="4.0dip" android:layout_alignParentBottom="true" />
+    </RelativeLayout>
+</FrameLayout>

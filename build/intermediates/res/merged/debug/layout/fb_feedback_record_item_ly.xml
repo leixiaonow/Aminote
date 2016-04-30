@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.gionee.note.feedback.FeedBackInfoItem android:orientation="vertical" android:id="@+id/feedback_info_item" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:background="@color/fb_feedback_record_item_bg" android:paddingTop="@dimen/fb_padding" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/fb_feedback_record_faq_text_size" android:textColor="@color/system_stress_color" android:id="@+id/fb_problem_content" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/fb_margin" android:layout_marginRight="@dimen/fb_margin" />
+        <TextView android:textSize="@dimen/fb_feedback_record_time_text_size" android:textColor="@color/fb_feedback_record_attach_color" android:id="@+id/gn_fb_id_attach_count" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/fb_margin" android:layout_marginTop="@dimen/fb_padding" android:layout_marginRight="@dimen/fb_margin" />
+        <TextView android:textSize="@dimen/fb_feedback_record_time_text_size" android:textColor="@color/fb_feedback_record_time_color" android:id="@+id/gn_fb_id_senddate" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/fb_margin" android:layout_marginTop="@dimen/fb_padding" android:layout_marginRight="@dimen/fb_margin" android:layout_marginBottom="@dimen/fb_padding" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@+id/gn_fb_id_replylist" android:background="@color/fb_feedback_record_item_bg" android:paddingBottom="@dimen/fb_padding" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" />
+</com.gionee.note.feedback.FeedBackInfoItem>

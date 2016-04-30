@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout-v21\\amigo_determinate_progress_dialog_ly.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout-v21\\amigo_determinate_progress_dialog_ly.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout-v21\\date_time_picker_dialog.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout-v21\\date_time_picker_dialog.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout-v21\\note_item_have_image.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout-v21\\note_item_have_image.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout-v21\\import_backup_progress_dialog_ly.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout-v21\\import_backup_progress_dialog_ly.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout-v21\\label_selector_item.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout-v21\\label_selector_item.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\layout-v21\\note_item_no_image.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\layout-v21\\note_item_no_image.xml"
+    }
+]

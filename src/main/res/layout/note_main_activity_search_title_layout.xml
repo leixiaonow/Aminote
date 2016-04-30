@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@+id/note_main_activity_search_title_layout_back" android:layout_width="@dimen/note_main_activity_search_title_layout_back_icon_width" android:layout_height="fill_parent" android:src="@drawable/note_title_back_icon" android:scaleType="center" style="@style/RippleEffect" />
+    <com.gionee.note.app.view.NoteSearchView android:orientation="horizontal" android:id="@+id/note_search_view" android:background="@color/search_view_background_color" android:layout_width="fill_parent" android:layout_height="@dimen/search_view_height" android:layout_marginLeft="@dimen/search_view_left_margin" android:layout_marginRight="@dimen/search_view_right_margin">
+        <amigoui.widget.AmigoEditText android:textSize="@dimen/search_view_text_size" android:textColor="@color/search_view_text_color" android:textColorHint="@color/search_view_hint_text_color" android:id="@+id/search_input_msg_edit_text" android:background="@null" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/search_view_text_view_left_margin" android:hint="@string/search_hint" android:singleLine="true" android:layout_weight="1.0" android:imeOptions="actionSearch" android:textCursorDrawable="@drawable/edit_cursor_dw" />
+        <ImageView android:id="@+id/search_clear_btn" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/search_clear_icon" android:tint="@color/search_view_clear_button_tint_color" style="@style/RippleEffect" />
+    </com.gionee.note.app.view.NoteSearchView>
+</LinearLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:paddingLeft="@dimen/datetime_title_padding_left" android:paddingRight="@dimen/datetime_title_padding_right" android:layout_width="fill_parent" android:layout_height="@dimen/datetime_title_height">
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="@color/system_stress_color" android:gravity="center" android:id="@+id/reminder_date_text" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="@color/datetime_title_text_normal_color" android:gravity="center" android:id="@+id/reminder_time_text" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+    </LinearLayout>
+    <amigoui.widget.AmigoDatePicker android:layout_gravity="center_horizontal" android:id="@+id/reminder_datePicker" android:layout_width="wrap_content" android:layout_height="wrap_content" android:spinnersShown="true" android:calendarViewShown="false" />
+    <amigoui.widget.AmigoTimePicker android:layout_gravity="center_horizontal" android:id="@+id/reminder_timePicker" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <LinearLayout android:orientation="horizontal" android:background="@color/dialog_background" android:layout_width="fill_parent" android:layout_height="@dimen/datetime_button_height">
+        <TextView android:textSize="@dimen/label_selector_dialog_button_text_size" android:textColor="@color/dialog_cancel_text_color" android:gravity="center" android:id="@+id/reminder_cancel" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/button_cancel" android:layout_weight="1.0" style="@style/ChickBgEffect" />
+        <TextView android:textSize="@dimen/label_selector_dialog_button_text_size" android:textColor="@color/dialog_cancel_text_color" android:gravity="center" android:id="@+id/reminder_delete" android:visibility="gone" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/button_delete" android:layout_weight="1.0" style="@style/ChickBgEffect" />
+        <TextView android:textSize="@dimen/label_selector_dialog_button_text_size" android:textColor="@color/dialog_ok_text_color" android:gravity="center" android:id="@+id/reminder_sure" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/button_sure" android:layout_weight="1.0" style="@style/ChickBgEffect" />
+    </LinearLayout>
+</LinearLayout>

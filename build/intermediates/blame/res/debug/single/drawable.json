@@ -1,0 +1,454 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_progress_horizontal_dark.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_progress_horizontal_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_page_label_bg.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\edit_page_label_bg.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_btn_default_disable_mtrl_shape.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_btn_default_disable_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\attach_pic_selector_bg.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\attach_pic_selector_bg.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_progress_horizontal_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_progress_horizontal_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_actionbar_item_background_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_actionbar_item_background_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_switch_inner_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_switch_inner_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_screen_background_selector_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_screen_background_selector_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\attach_pic_selector_state.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\attach_pic_selector_state.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_fastscroll_thumb.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_fastscroll_thumb.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_progress_small_dark.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_progress_small_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_btn_radio_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_btn_radio_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_cursor_dw.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\edit_cursor_dw.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_switch_track_sign_off.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_switch_track_sign_off.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\sound_recorder_dialog_button_bg.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\sound_recorder_dialog_button_bg.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_btn_magic_bar_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_btn_magic_bar_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_progress_small.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_progress_small.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_btn_default_small_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_btn_default_small_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_list_selector_dark.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_list_selector_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_page_sound_bg.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\edit_page_sound_bg.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_frame_list_bottom_background_dark.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_frame_list_bottom_background_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_btn_default_small_dark.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_btn_default_small_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_progress_medium_dark.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_progress_medium_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_list_selector_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_list_selector_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_frame_list_middle_background_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_frame_list_middle_background_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_frame_list_top_background_dark.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_frame_list_top_background_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_progress_large_dark.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_progress_large_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_frame_list_top_background_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_frame_list_top_background_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_magic_menu_more_light_bg.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_magic_menu_more_light_bg.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_label_custom_add_sure.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\selector_label_custom_add_sure.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_item_background_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_item_background_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_text_toolbar_right.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_text_toolbar_right.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_btn_default_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_btn_default_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_btn_default_pressed_mtrl_shape.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_btn_default_pressed_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_preference_detail.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_preference_detail.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_text_toolbar_single.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_text_toolbar_single.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_switch_track_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_switch_track_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_magic_menu_more_dark_bg.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_magic_menu_more_dark_bg.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_scrubber_progress_horizontal_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_scrubber_progress_horizontal_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_textview_cart.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\shape_textview_cart.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\ai_tip_drawable.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\ai_tip_drawable.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_screen_background_selector_dark.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_screen_background_selector_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_list_selector_background_transition_dark.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_list_selector_background_transition_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_activity_picker_bg_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_activity_picker_bg_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_switch_thumb_dot_on.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_switch_thumb_dot_on.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_scrubber_control_selector_dark.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_scrubber_control_selector_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\text_cursor_drawable.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\text_cursor_drawable.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_custom_edit_button.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\selector_custom_edit_button.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_spinner_ab_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_spinner_ab_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\recycle_ecoration_bg.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\recycle_ecoration_bg.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_btn_radio_dark.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_btn_radio_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_spinner_background_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_spinner_background_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_scrubber_control_selector_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_scrubber_control_selector_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_searchview_close_button.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_searchview_close_button.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_spinner_background_dark.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_spinner_background_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_text_toolbar_left.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_text_toolbar_left.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_edit_text.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_edit_text.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_expander_group_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_expander_group_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_progress_indeterminate_horizontal.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_frame_list_bottom_background_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_frame_list_bottom_background_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_activity_picker_bg_dark.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_activity_picker_bg_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_btn_default_mtrl_shape.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_menu_item_background_dark.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_menu_item_background_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_progress_large.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_progress_large.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_magicbar_gradient.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_magicbar_gradient.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_item_background_dark.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_item_background_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_list_selector_background_transition_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_list_selector_background_transition_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_frame_list_background_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_frame_list_background_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_menu_item_background_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_menu_item_background_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_btn_check_dark.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_btn_check_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\note_card_chick_bg_dw.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\note_card_chick_bg_dw.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_scrubber_progress_horizontal_dark.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_scrubber_progress_horizontal_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_switch_thumb_dot_off.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_switch_thumb_dot_off.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\chick_effect_bg_dw.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\chick_effect_bg_dw.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_btn_default_dark.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_btn_default_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_switch_track_sign_on.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_switch_track_sign_on.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_progress_medium.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_progress_medium.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_text_toolbar_center.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_text_toolbar_center.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\sound_recorder_dialog_point.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\sound_recorder_dialog_point.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_switch_track_off.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_switch_track_off.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_expandlist_group_bg_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_expandlist_group_bg_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_fastscroll_track_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_fastscroll_track_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_switch_track_on.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_switch_track_on.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_frame_list_middle_background_dark.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_frame_list_middle_background_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_expander_group_dark.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_expander_group_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_btn_check_light.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_btn_check_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable\\amigo_frame_list_background_dark.xml",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable\\amigo_frame_list_background_dark.xml"
+    }
+]

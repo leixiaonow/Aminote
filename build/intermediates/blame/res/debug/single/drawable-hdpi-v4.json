@@ -1,0 +1,1338 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_scrubber_control_focused_light.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_scrubber_control_focused_light.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_check_on_disabled_light.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_check_on_disabled_light.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_menu_hardkey_panel_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_menu_hardkey_panel_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\label_custom_add_sure.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\label_custom_add_sure.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_expander_close_dark.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_expander_close_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_radio_on_disabled_focused_light.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_radio_on_disabled_focused_light.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_textfield_selected.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_textfield_selected.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_spinner_small_dark.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_spinner_small_dark.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_spinner_pressed_dark.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_spinner_pressed_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bill_uncomplete.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\bill_uncomplete.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_ic_commit_search_api_holo_dark.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_4.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_4.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_16.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_16.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_check_off_dark.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_check_off_dark.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_frame_list_bottom_dark.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_frame_list_bottom_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_radio_off_disabled_focused_light.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_radio_off_disabled_focused_light.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\action_bill_icon.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\action_bill_icon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_list_pressed_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_list_pressed_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_cab_background_top_dark.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_cab_background_top_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_textfield_default.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_textfield_default.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher_new_note_icon.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\ic_launcher_new_note_icon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_expander_open_dark.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_expander_open_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_activity_picker_bg_focused_dark.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_activity_picker_bg_focused_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_18.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_18.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_check_on_disabled_focused_light.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_check_on_disabled_focused_light.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_radio_on_pressed_light.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_radio_on_pressed_light.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_spinner_ab_pressed_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_spinner_ab_pressed_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_text_toolbar_left_pre.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_text_toolbar_left_pre.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_frame_list_bg_middle_pre_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_frame_list_bg_middle_pre_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_cab_background_top_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_cab_background_top_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_switch_bg_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_switch_bg_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_dialog_middle_dark.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_dialog_middle_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_radio_on_light.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_radio_on_light.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_frame_list_bg_middle_pre_dark.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_frame_list_bg_middle_pre_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\media_pause.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\media_pause.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_2.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_2.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_fastscroll_track_pressed_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_fastscroll_track_pressed_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_text_toolbar_position_arrow_below.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_text_toolbar_position_arrow_below.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_text_toolbar_single_pre.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_text_toolbar_single_pre.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_fastscroll_thumb_default.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_fastscroll_thumb_default.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_check_off_focused_light.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_check_off_focused_light.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_radio_off_pressed_dark.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_radio_off_pressed_dark.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\note_main_activity_title_dw_search.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\note_main_activity_title_dw_search.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_text_toolbar_right_pre.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_text_toolbar_right_pre.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_radio_off_disabled_light.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_radio_off_disabled_light.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_numberpicker_selection.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_numberpicker_selection.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_menu_item_select_dark.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_menu_item_select_dark.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_frame_list_bottom_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_frame_list_bottom_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_bg_decorator_adapter.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_bg_decorator_adapter.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_scrubber_control_focused_dark.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_scrubber_control_focused_dark.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_check_on_disabled_focused_dark.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_check_on_disabled_focused_dark.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_check_off_light.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_check_off_light.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_frame_list_bg_dark.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_frame_list_bg_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_item_select_dark.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_item_select_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_default_small_pressed_dark.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_default_small_pressed_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\media_stop.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\media_stop.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_radio_off_light.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_radio_off_light.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_ic_ab_back_dark.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_ic_ab_back_dark.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attachment_sound_recorder.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\attachment_sound_recorder.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cursor_dw.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\cursor_dw.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_menu_hardkey_panel_dark.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_menu_hardkey_panel_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_scrubber_control_disabled_dark.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_scrubber_control_disabled_dark.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_expander_close_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_expander_close_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_check_off_disabled_focused_dark.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_check_off_disabled_focused_dark.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_progress_primary_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_progress_primary_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_detail_pressed.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_detail_pressed.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_check_on_dark.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_check_on_dark.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_item_select_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_item_select_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_list_longpressed.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_list_longpressed.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_frame_list_bg_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_frame_list_bg_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_scrollbar_handle_holo_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_scrollbar_handle_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_radio_off_disabled_focused_dark.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_radio_off_disabled_focused_dark.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_switch_thumb_disabled.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_switch_thumb_disabled.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_10.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_10.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attachment_take_photos.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\attachment_take_photos.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_numberpicker_right.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_numberpicker_right.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_dialog_middle_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_dialog_middle_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_8.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_8.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_progress_secondary_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_progress_secondary_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_text_select_handle_left.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_text_select_handle_left.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_radio_on_dark.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_radio_on_dark.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bill_complete.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\bill_complete.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_fastscroll_thumb_pressed.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_fastscroll_thumb_pressed.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_radio_off_pressed_light.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_radio_off_pressed_light.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_switch_select.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_switch_select.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_numberpicker_selection_left.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_numberpicker_selection_left.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_toast_frame_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_toast_frame_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_frame_list_bg_middle_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_frame_list_bg_middle_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_dialog_top_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_dialog_top_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_scrubber_track_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_scrubber_track_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_dialog_bottom_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_dialog_bottom_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_searchview_icon_3.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_searchview_icon_3.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_switch_thumb_dot_on_disabled.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_switch_thumb_dot_on_disabled.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_text_select_handle_right.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_text_select_handle_right.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_radio_off_dark.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_radio_off_dark.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_progress_secondary_dark.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_progress_secondary_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_default_small_normal_dark.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_default_small_normal_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_12.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_12.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_list_selector_disabled_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_list_selector_disabled_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_radio_on_focused_dark.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_radio_on_focused_dark.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_scrubber_control_disabled_light.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_scrubber_control_disabled_light.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_default_small_normal_disable_dark.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_default_small_normal_disable_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_list_focused.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_list_focused.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_frame_list_bottom_pre_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_frame_list_bottom_pre_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_scrubber_track_dark.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_scrubber_track_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\note_main_activity_title_dw_edit.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\note_main_activity_title_dw_edit.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_textfield_searchview_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_textfield_searchview_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_radio_on_disabled_focused_dark.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_radio_on_disabled_focused_dark.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_switch_thumb_dot_off_enable.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_switch_thumb_dot_off_enable.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_frame_list_bg_top_pre_dark.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_frame_list_bg_top_pre_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_spinner_ab_default_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_spinner_ab_default_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_frame_list_bg_top_dark.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_frame_list_bg_top_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_spinner_ab_focused_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_spinner_ab_focused_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_21.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_21.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\photo_view_loading_fail.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\photo_view_loading_fail.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_text_toolbar_right_nor.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_text_toolbar_right_nor.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attachment_select_image.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\attachment_select_image.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_expander_open_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_expander_open_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_spinner_medium_light.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_spinner_medium_light.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_spinner_default_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_spinner_default_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_textfield_disabled.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_textfield_disabled.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_listview_delete_top_bg.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_listview_delete_top_bg.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_radio_on_pressed_dark.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_radio_on_pressed_dark.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_spinner_focused_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_spinner_focused_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_11.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_11.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\action_alert_icon.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\action_alert_icon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_text_toolbar_position_arrow_above.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_text_toolbar_position_arrow_above.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_17.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_17.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_default_small_normal.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_default_small_normal.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_default_small_pressed.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_default_small_pressed.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_clear_icon.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\search_clear_icon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_radio_on_disabled_light.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_radio_on_disabled_light.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_button_disabled_dark.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_button_disabled_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_switch_thumb.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_switch_thumb.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_button_default.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_button_default.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic_unselected.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\pic_unselected.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher_search_note_icon.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\ic_launcher_search_note_icon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_text_toolbar_center_nor.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_text_toolbar_center_nor.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_progress_bg_dark.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_progress_bg_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_button_pressed.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_button_pressed.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_ic_commit_search_api_holo_light.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_3.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_3.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_searchview_background.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_searchview_background.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_text_select_handle_middle.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_text_select_handle_middle.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_expandlist_group_normal_bg.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_expandlist_group_normal_bg.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sound_play_icon.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\sound_play_icon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_activity_picker_bg_activated_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_activity_picker_bg_activated_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_ic_clear_light_dis.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_ic_clear_light_dis.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_check_off_focused_dark.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_check_off_focused_dark.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_cancel.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_cancel.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic_selected.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\pic_selected.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_magic_menu_more_icon.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_magic_menu_more_icon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_listview_delete_bg.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_listview_delete_bg.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_20.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_20.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_actionbar_item_select_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_actionbar_item_select_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_cancel_light.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_cancel_light.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_tabbar_divider.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_tabbar_divider.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_15.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_15.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_frame_list_bg_middle_dark.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_frame_list_bg_middle_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_check_on_pressed_light.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_check_on_pressed_light.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\action_label_icon.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\action_label_icon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit_page_reminder.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\edit_page_reminder.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_frame_list_bg_pre_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_frame_list_bg_pre_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_text_toolbar_left_nor.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_text_toolbar_left_nor.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\action_share_icon.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\action_share_icon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_5.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_5.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\action_attachment_icon.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\action_attachment_icon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_radio_off_disabled_dark.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_radio_off_disabled_dark.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_spinner_pressed_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_spinner_pressed_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_scrubber_control_normal_dark.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_scrubber_control_normal_dark.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_button_default_dark.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_button_default_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_list_divider_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_list_divider_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_scrubber_primary_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_scrubber_primary_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_text_cursor_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_text_cursor_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_ic_ab_back_light.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_ic_ab_back_light.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\label_custom_add_sure_disabled.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\label_custom_add_sure_disabled.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_19.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_19.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_ic_clear_light.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_ic_clear_light.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\note_main_del_icon.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\note_main_del_icon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_13.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_13.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit_page_label_bg.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\edit_page_label_bg.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_radio_on_focused_light.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_radio_on_focused_light.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_check_off_pressed_light.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_check_off_pressed_light.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_transparent.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_transparent.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_menu_dropdown_panel_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_menu_dropdown_panel_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_numberpicker_selection_right.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_numberpicker_selection_right.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_optionsmenu_transparaent.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_optionsmenu_transparaent.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_check_on_disabled_dark.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_check_on_disabled_dark.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\about_app_icon.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\about_app_icon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_1.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_1.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_text_toolbar_single_nor.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_text_toolbar_single_nor.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_list_divider_dark.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_list_divider_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_check_on_pressed_dark.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_check_on_pressed_dark.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_scrubber_primary_dark.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_scrubber_primary_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attachment_online_image.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\attachment_online_image.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_dialog_full_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_dialog_full_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_switch_bg_disabled_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_switch_bg_disabled_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ai_tip_dw_no.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\ai_tip_dw_no.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_switch_thumb_dot_off_disabled.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_switch_thumb_dot_off_disabled.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_numberpicker.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_numberpicker.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_numberpicker_center.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_numberpicker_center.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_22.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_22.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\action_preview_enable.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\action_preview_enable.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_default_small_normal_disable.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_default_small_normal_disable.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\media_play.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\media_play.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_searchview_icon_2.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_searchview_icon_2.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_spinner_large_light.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_spinner_large_light.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_voice_icon.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_voice_icon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_switch_thumb_dot_on_enable.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_switch_thumb_dot_on_enable.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_check_on_focused_light.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_check_on_focused_light.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_frame_list_bg_top_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_frame_list_bg_top_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_menu_dropdown_panel_dark.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_menu_dropdown_panel_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_detail_unpress.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_detail_unpress.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ai_tip_dw_ok_1.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\ai_tip_dw_ok_1.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_numberpicker_selection_center.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_numberpicker_selection_center.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_scrubber_secondary_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_scrubber_secondary_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\action_save_icon.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\action_save_icon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_check_off_disabled_focused_light.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_check_off_disabled_focused_light.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\image_span_default_drawable.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\image_span_default_drawable.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ai_tip_dw_ok_2.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\ai_tip_dw_ok_2.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_check_off_pressed_dark.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_check_off_pressed_dark.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_switch_bg_focused_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_switch_bg_focused_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_text_select_handle_top_right.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_text_select_handle_top_right.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_searchview_background_submit.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_searchview_background_submit.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_spinner_disabled_dark.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_spinner_disabled_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\note_tip_image.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\note_tip_image.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_scrubber_control_pressed_dark.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_scrubber_control_pressed_dark.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_spinner_large_dark.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_spinner_large_dark.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_spinner_focused_dark.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_spinner_focused_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_23.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_23.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_7.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_7.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_scrubber_secondary_dark.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_scrubber_secondary_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_spinner_small_light.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_spinner_small_light.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\datetime_light_bg.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\datetime_light_bg.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_menu_item_select_light.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_menu_item_select_light.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_radio_on_disabled_dark.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_radio_on_disabled_dark.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_check_off_disabled_dark.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_check_off_disabled_dark.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_numberpicker_left.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_numberpicker_left.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_cab_background_bottom_dark.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_cab_background_bottom_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_switch_off.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_switch_off.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_numberpicker_divider_top.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_numberpicker_divider_top.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\note_card_default_image.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\note_card_default_image.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_magic_menu_close_icon.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_magic_menu_close_icon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\note_main_activity_title_dw_setting.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\note_main_activity_title_dw_setting.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_dialog_full_dark.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_dialog_full_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_ic_clear_light_pre.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_ic_clear_light_pre.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_radio_off_focused_light.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_radio_off_focused_light.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_fastscroll_track_default_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_fastscroll_track_default_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_searchview_icon_1.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_searchview_icon_1.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_numberpicker_divider_down.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_numberpicker_divider_down.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\note_item_reminder.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\note_item_reminder.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_strong_hint_dialog_info.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_strong_hint_dialog_info.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_button_pressed_dark.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_button_pressed_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_check_on_light.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_check_on_light.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_switch_on.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_switch_on.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_check_off_disabled_light.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_check_off_disabled_light.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\datetime_select_bg.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\datetime_select_bg.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_check_on_focused_dark.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_check_on_focused_dark.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_scrubber_control_pressed_light.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_scrubber_control_pressed_light.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\label_selector_custom_label.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\label_selector_custom_label.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_text_toolbar_center_pre.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_text_toolbar_center_pre.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\action_del_icon_enable.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\action_del_icon_enable.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_button_disabled.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_button_disabled.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_spinner_medium_dark.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_spinner_medium_dark.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gn_fb_drawable_add_attach_bn.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\gn_fb_drawable_add_attach_bn.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_spinner_disabled_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_spinner_disabled_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_progress_primary_dark.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_progress_primary_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_text_select_handle_top_left.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_text_select_handle_top_left.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_gallery.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\go_gallery.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_spinner_ab_disabled_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_spinner_ab_disabled_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_spinner_default_dark.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_spinner_default_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_scrubber_control_normal_light.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_scrubber_control_normal_light.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_frame_list_bottom_pre_dark.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_frame_list_bottom_pre_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_14.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_14.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_frame_list_bg_top_pre_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_frame_list_bg_top_pre_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_frame_list_bg_pre_dark.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_frame_list_bg_pre_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_6.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_progressbar_indeterminate_6.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_activity_picker_bg_activated_dark.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_activity_picker_bg_activated_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_progress_bg_light.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_progress_bg_light.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_dialog_bottom_dark.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_dialog_bottom_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\note_title_back_icon.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\note_title_back_icon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_btn_radio_off_focused_dark.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_btn_radio_off_focused_dark.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_list_selector_disabled_dark.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_list_selector_disabled_dark.9.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Aminote\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amigo_dialog_top_dark.9.png",
+        "source": "C:\\AndroidStudioProject\\Aminote\\src\\main\\res\\drawable-hdpi-v4\\amigo_dialog_top_dark.9.png"
+    }
+]

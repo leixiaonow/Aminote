@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.amigoui.internal.widget.AmigoActionBarOverlayLayout android:id="@+id/amigo_action_bar_overlay_layout" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@+id/amigo_content" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ViewStub android:gravity="top" android:id="@+id/amigo_actionbar_container_stub" android:layout="@layout/amigo_actionbar_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true" />
+    <LinearLayout android:orientation="horizontal" android:id="@+id/amigo_overlap" android:background="@drawable/amigo_optionsmenu_transparaent" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/amigo_magicbar_icon_bg_height" android:layout_alignParentBottom="true" />
+    <LinearLayout android:orientation="horizontal" android:id="@+id/amigo_magic_bar_bg" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <amigoui.widget.AmigoMagicBar android:id="@+id/amigo_magic_bar" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" style="?attr/amigoactionBarStyle" />
+    <com.amigoui.internal.widget.AmigoActionBarContainer android:gravity="center" android:layout_gravity="bottom" android:id="@+id/amigo_split_action_bar" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" style="?android:attr/actionBarSplitStyle" />
+</com.amigoui.internal.widget.AmigoActionBarOverlayLayout>

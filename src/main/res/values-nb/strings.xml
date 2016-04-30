@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="amigo_time_picker_dialog_title">Still klokken</string>
+    <string name="amigo_date_picker_dialog_title">Angi dato</string>
+    <string name="amigo_date_time_done">Ferdig</string>
+    <string name="amigo_copy">Kopiér</string>
+    <string name="amigo_paste">Lim inn</string>
+    <string name="amigo_cut">Klipp ut</string>
+    <string name="amigo_selectAll">Velg alle</string>
+    <string name="amigo_select">Velg</string>
+    <string name="amigo_inputMethod">Inndatametode</string>
+    <string name="amigo_action_bar_up_description">Tilbake</string>
+    <string name="amigo_action_bar_home_description">Tilbake til startsiden</string>
+    <string name="amigo_smart_full_btn_label">OK</string>
+    <string name="amigo_capital_on">PÅ</string>
+    <string name="amigo_capital_off">AV</string>
+    <string name="amigo_cancel">Avbryt</string>
+    <string name="amigo_action_mode_done">Fullført</string>
+    <string name="amigo_activity_resolver_use_always">Alltid</string>
+    <string name="amigo_activity_resolver_use_once">Bare én gang</string>
+    <string name="amigo_back_button_label">Tilbake</string>
+    <string name="amigo_chooseActivity">Velg en handling</string>
+    <string name="amigo_next_button_label">Neste</string>
+    <string name="amigo_no">Avbryt</string>
+    <string name="amigo_noApplications">Ingen apper kan gjøre dette</string>
+    <string name="amigo_ok">OK</string>
+    <string name="amigo_skip_button_label">Hopp over</string>
+    <string name="amigo_system_label">Android-system</string>
+    <string name="amigo_whichApplication">Fullfør med</string>
+    <string name="amigo_yes">OK</string>
+    <string name="amigo_app_name">AmigoUI</string>
+</resources>

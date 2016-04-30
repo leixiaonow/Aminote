@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@+id/widget_layout" android:layout_width="@dimen/widget_width_4x" android:layout_height="307.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@+id/widget_backgroud" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="fitXY" />
+    <RelativeLayout android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <RelativeLayout android:id="@+id/title_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/widget_text_title_margin_top_4x" android:layout_alignParentLeft="true" android:layout_alignParentTop="true">
+            <TextView android:textSize="@dimen/home_note_item_title_size" android:textColor="@color/home_note_item_title_color" android:id="@+id/widget_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/widget_text_margin_left_4x" android:singleLine="true" android:layout_toLeftOf="@+id/widget_alarm" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+            <ImageView android:id="@+id/widget_alarm" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/widget_alarm_margin_right_4x" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+        </RelativeLayout>
+        <TextView android:textSize="@dimen/home_note_item_content_size" android:textColor="@color/edit_note_item_signature_color" android:ellipsize="end" android:id="@+id/widget_content" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/widget_text_margin_left_4x" android:layout_marginTop="@dimen/widget_text_content_margin_top_4x" android:layout_marginRight="@dimen/widget_text_margin_left_4x" android:layout_marginBottom="12.0dip" android:maxLines="14" android:layout_above="@+id/widget_time" android:layout_below="@+id/title_layout" android:lineSpacingExtra="4.0dip" android:lineSpacingMultiplier="1.0" />
+        <TextView android:textSize="@dimen/widget_time_size" android:textColor="@color/edit_note_item_time_color" android:id="@+id/widget_time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/widget_time_margin_right_4x" android:layout_marginBottom="@dimen/widget_time_margin_bottom_4x" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" />
+    </RelativeLayout>
+</FrameLayout>

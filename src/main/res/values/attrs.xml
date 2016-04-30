@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="AmigoAlphabetIndexViewStyle" format="reference" />
+    <attr name="amigobackground" format="reference" />
+    <attr name="amigoicon" format="reference" />
+    <attr name="amigoshowDefault" format="boolean" />
+    <attr name="amigotitle" format="string" />
+    <attr name="amigolayout" format="reference" />
+    <attr name="amigodisableDependentsState" format="boolean" />
+    <attr name="amigosummaryOff" format="string" />
+    <attr name="amigosummaryOn" format="string" />
+    <attr name="amigointernalLayout" format="reference" />
+    <attr name="amigoentries" format="reference" />
+    <attr name="amigoentryValues" format="reference" />
+    <attr name="amigofragment" format="string" />
+    <attr name="amigosummary" format="string" />
+    <attr name="amigoswitchStyle" format="reference" />
+    <attr name="amigonumberPickerStyle" format="reference" />
+    <attr name="amigodatePickerStyle" format="reference" />
+    <attr name="amigotimePickerStyle" format="reference" />
+    <attr name="amigoframeListBackground" format="reference" />
+    <attr name="amigoframeListTopBackground" format="reference" />
+    <attr name="amigoframeListMiddleBackground" format="reference" />
+    <attr name="amigoframeListBottomBackground" format="reference" />
+    <attr name="amigotextAppearanceMediumSecond" format="reference" />
+    <attr name="amigotextAppearanceMediumSecondInverse" format="reference" />
+    <attr name="amigoactionBarStyle" format="reference" />
+    <attr name="amigoalertDialogStyle" format="reference" />
+    <attr name="amigospinnerStyle" format="reference" />
+    <attr name="amigoExpandableListViewStyle" format="reference" />
+    <attr name="amigooptionMenuListBackground" format="reference" />
+    <attr name="amigooptionMenuBg" format="reference" />
+    <attr name="selectableMenuItemBackground" format="reference" />
+    <attr name="amigoButtonHeight" format="dimension" />
+    <attr name="amigoSearchViewStyle" format="reference" />
+    <attr name="amigoDialogBackground" format="reference|color" />
+    <attr name="amigoDialogOtherBtnTxtColor" format="reference|color" />
+    <attr name="amigodatePickerDialogStyle" format="reference" />
+    <attr name="amigoDialogWindowBackground" format="reference|color" />
+    <attr name="amigoListSeparatorTextColor" format="reference|color" />
+    <attr name="amigo_dialog_content_text_color" format="reference|color" />
+    <attr name="amigoDialogPostiveBtnColorValue" format="reference|color" />
+    <attr name="amigolistPreferredItemPaddingEnd" format="dimension" />
+    <attr name="amigolistPreferredItemPaddingStart" format="dimension" />
+    <attr name="amigopanelMenuListWidth" format="dimension" />
+    <attr name="amigosearchResultListItemHeight" format="dimension" />
+    <attr name="amigosearchViewEditQuery" format="reference" />
+    <attr name="amigosearchViewEditQueryBackground" format="reference" />
+
+    <declare-styleable name="AmigoActionBar">
+        <attr name="amigoOptionsMenuAsUp" format="boolean" />
+        <attr name="amigobackground" />
+        <attr name="amigobackgroundSplit" format="reference|color" />
+        <attr name="amigobackgroundStacked" format="reference|color" />
+        <attr name="amigocustomNavigationLayout" format="reference" />
+        <attr name="amigodisplayOptions">
+            <flag name="disableHome" value="0x00000020" />
+            <flag name="homeAsUp" value="0x00000004" />
+            <flag name="none" value="0x00000000" />
+            <flag name="showCustom" value="0x00000010" />
+            <flag name="showHome" value="0x00000002" />
+            <flag name="showTitle" value="0x00000008" />
+            <flag name="useLogo" value="0x00000001" />
+        </attr>
+        <attr name="amigodivider" format="reference" />
+        <attr name="amigoheight" format="dimension" />
+        <attr name="amigohomeLayout" format="reference" />
+        <attr name="amigoicon" />
+        <attr name="amigoindeterminateProgressStyle" format="reference" />
+        <attr name="amigoitemPadding" format="dimension" />
+        <attr name="amigologo" format="reference" />
+        <attr name="amigonavigationMode">
+            <enum name="listMode" value="1" />
+            <enum name="normal" value="0" />
+            <enum name="tabMode" value="2" />
+        </attr>
+        <attr name="amigopaddingBottom" format="dimension" />
+        <attr name="amigopaddingLeft" format="dimension" />
+        <attr name="amigopaddingRight" format="dimension" />
+        <attr name="amigopaddingTop" format="dimension" />
+        <attr name="amigoprogressBarPadding" format="dimension" />
+        <attr name="amigoprogressBarStyle" format="reference" />
+        <attr name="amigoshowDefault" />
+        <attr name="amigosubtitle" format="string" />
+        <attr name="amigosubtitleTextStyle" format="reference" />
+        <attr name="amigotabheight" format="dimension" />
+        <attr name="amigotextAppearance" format="reference" />
+        <attr name="amigotitle" />
+        <attr name="amigotitleTextStyle" format="reference" />
+    </declare-styleable>
+    <declare-styleable name="AmigoAlertDialog">
+        <attr name="amigoDialogPostiveBtnColor" format="reference|color" />
+        <attr name="amigoStrongHintDialogLayout" format="reference" />
+        <attr name="amigobottomBright" format="reference|color" />
+        <attr name="amigobottomDark" format="reference|color" />
+        <attr name="amigobottomMedium" format="reference|color" />
+        <attr name="amigocenterBright" format="reference|color" />
+        <attr name="amigocenterDark" format="reference|color" />
+        <attr name="amigocenterMedium" format="reference|color" />
+        <attr name="amigofullBright" format="reference|color" />
+        <attr name="amigofullDark" format="reference|color" />
+        <attr name="amigohorizontalProgressLayout" format="reference" />
+        <attr name="amigolayout" />
+        <attr name="amigolistItemLayout" format="reference" />
+        <attr name="amigolistLayout" format="reference" />
+        <attr name="amigomultiChoiceItemLayout" format="reference" />
+        <attr name="amigoprogressLayout" format="reference" />
+        <attr name="amigosingleChoiceItemLayout" format="reference" />
+        <attr name="amigotopBright" format="reference|color" />
+        <attr name="amigotopDark" format="reference|color" />
+    </declare-styleable>
+    <declare-styleable name="AmigoAlphabetIndexView">
+        <attr name="amigoDisableSectionColor" format="color" />
+        <attr name="amigoEnableSectionColor" format="color" />
+        <attr name="amigoSectionFontSize" format="dimension" />
+        <attr name="amigoShowingLetterColor" format="color" />
+        <attr name="amigoTouchingLeftOffset" format="dimension" />
+        <attr name="amigoTouchingLetterFontSize" format="dimension" />
+    </declare-styleable>
+    <declare-styleable name="AmigoAutoCompleteTextView">
+        <attr name="amigocompletionHint" format="string" />
+        <attr name="amigocompletionHintView" format="reference" />
+        <attr name="amigocompletionThreshold" format="integer" min="1" />
+        <attr name="amigodropDownAnchor" format="reference" />
+        <attr name="amigodropDownHeight" format="dimension">
+            <enum name="fill_parent" value="-1" />
+            <enum name="match_parent" value="-1" />
+            <enum name="wrap_content" value="-2" />
+        </attr>
+        <attr name="amigodropDownHorizontalOffset" format="dimension" />
+        <attr name="amigodropDownSelector" format="reference|color" />
+        <attr name="amigodropDownVerticalOffset" format="dimension" />
+        <attr name="amigodropDownWidth" format="dimension">
+            <enum name="fill_parent" value="-1" />
+            <enum name="match_parent" value="-1" />
+            <enum name="wrap_content" value="-2" />
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="AmigoCheckBoxPreference">
+        <attr name="amigodisableDependentsState" />
+        <attr name="amigosummaryOff" />
+        <attr name="amigosummaryOn" />
+    </declare-styleable>
+    <declare-styleable name="AmigoDatePicker">
+        <attr name="amigocalendarViewShown" format="boolean" />
+        <attr name="amigoendYear" format="integer" />
+        <attr name="amigointernalLayout" />
+        <attr name="amigomaxDate" format="string" />
+        <attr name="amigominDate" format="string" />
+        <attr name="amigospinnersShown" format="boolean" />
+        <attr name="amigostartYear" format="integer" />
+    </declare-styleable>
+    <declare-styleable name="AmigoDialogPreference">
+        <attr name="amigodialogIcon" format="reference" />
+        <attr name="amigodialogLayout" format="reference" />
+        <attr name="amigodialogMessage" format="string" />
+        <attr name="amigodialogTitle" format="string" />
+        <attr name="amigonegativeButtonText" format="string" />
+        <attr name="amigopositiveButtonText" format="string" />
+    </declare-styleable>
+    <declare-styleable name="AmigoEditModeView">
+        <attr name="amigoEditModeBackground" format="reference|color" />
+        <attr name="amigoEditModeBtnTxtColor" format="reference|color" />
+        <attr name="amigoEditModeLeftBtnTxt" format="string" />
+        <attr name="amigoEditModeRightBtnTxt" format="string" />
+    </declare-styleable>
+    <declare-styleable name="AmigoExpandableListView">
+        <attr name="amigochildDivider" format="reference|color" />
+        <attr name="amigochildIndicator" format="reference" />
+        <attr name="amigochildIndicatorLeft" format="dimension" />
+        <attr name="amigochildIndicatorRight" format="dimension" />
+        <attr name="amigogroupIndicator" format="reference" />
+        <attr name="amigoindicatorLeft" format="dimension" />
+        <attr name="amigoindicatorRight" format="dimension" />
+    </declare-styleable>
+    <declare-styleable name="AmigoListPreference">
+        <attr name="amigoentries" />
+        <attr name="amigoentryValues" />
+    </declare-styleable>
+    <declare-styleable name="AmigoMenuView">
+        <attr name="amigoheaderBackground" format="reference|color" />
+        <attr name="amigohorizontalDivider" format="reference" />
+        <attr name="amigoitemBackground" format="reference|color" />
+        <attr name="amigoitemIconDisabledAlpha" format="float" />
+        <attr name="amigoitemTextAppearance" format="reference" />
+        <attr name="amigopreserveIconSpacing" format="boolean" />
+        <attr name="amigoverticalDivider" format="reference" />
+        <attr name="amigowindowAnimationStyle" format="reference" />
+    </declare-styleable>
+    <declare-styleable name="AmigoMultiSelectListPreference">
+        <attr name="amigoentries" />
+        <attr name="amigoentryValues" />
+    </declare-styleable>
+    <declare-styleable name="AmigoNumberPicker">
+        <attr name="amigobackground" />
+        <attr name="amigointernalLayout" />
+        <attr name="amigointernalMaxHeight" format="dimension" />
+        <attr name="amigointernalMaxWidth" format="dimension" />
+        <attr name="amigointernalMinHeight" format="dimension" />
+        <attr name="amigointernalMinWidth" format="dimension" />
+        <attr name="amigoselectionDivider" format="reference" />
+        <attr name="amigoselectionDividerHeight" format="dimension" />
+        <attr name="amigoselectionDividersDistance" format="dimension" />
+        <attr name="amigoselectionSrc" format="reference" />
+        <attr name="amigoselectionbottomDivider" format="reference" />
+        <attr name="amigoselectiontopDivider" format="reference" />
+        <attr name="amigosolidColor" format="reference|color" />
+        <attr name="amigovirtualButtonPressedDrawable" format="reference" />
+    </declare-styleable>
+    <declare-styleable name="AmigoPreferenceGroup">
+        <attr name="amigoorderingFromXml" format="boolean" />
+    </declare-styleable>
+    <declare-styleable name="AmigoPreferenceHeader">
+        <attr name="amigobreadCrumbShortTitle" format="string" />
+        <attr name="amigobreadCrumbTitle" format="string" />
+        <attr name="amigofragment" />
+        <attr name="amigoicon" />
+        <attr name="amigoid" format="reference" />
+        <attr name="amigosummary" />
+        <attr name="amigotitle" />
+    </declare-styleable>
+    <declare-styleable name="AmigoPreference">
+        <attr name="amigodefaultValue" format="reference|string|integer|boolean|float" />
+        <attr name="amigodependency" format="string" />
+        <attr name="amigoenabled" format="boolean" />
+        <attr name="amigofragment" />
+        <attr name="amigoicon" />
+        <attr name="amigokey" format="string" />
+        <attr name="amigolayout" />
+        <attr name="amigoorder" format="integer" />
+        <attr name="amigopersistent" format="boolean" />
+        <attr name="amigoselectable" format="boolean" />
+        <attr name="amigoshouldDisableView" format="boolean" />
+        <attr name="amigosummary" />
+        <attr name="amigotitle" />
+        <attr name="amigowidgetLayout" format="reference" />
+    </declare-styleable>
+    <declare-styleable name="AmigoRingtonePreference">
+        <attr name="amigoringtoneType">
+            <flag name="alarm" value="0x00000004" />
+            <flag name="all" value="0x00000007" />
+            <flag name="notification" value="0x00000002" />
+            <flag name="ringtone" value="0x00000001" />
+        </attr>
+        <attr name="amigoshowDefault" />
+        <attr name="amigoshowSilent" format="boolean" />
+    </declare-styleable>
+    <declare-styleable name="AmigoSearchView">
+        <attr name="amigoBackground" format="reference|color" />
+        <attr name="amigoHintColor" format="color" />
+        <attr name="amigoImeOptions" format="integer" />
+        <attr name="amigoInputType" format="integer" />
+        <attr name="amigoMaxWidth" format="dimension" />
+        <attr name="amigoQueryHint" format="string" />
+        <attr name="amigoTextColor" format="color" />
+        <attr name="amigoVoiceIcon" format="reference" />
+    </declare-styleable>
+    <declare-styleable name="AmigoSpinner">
+        <attr name="amigoentries" />
+        <attr name="amigoprompt" format="reference" />
+        <attr name="amigospinnerMode">
+            <enum name="dialog" value="0" />
+            <enum name="dropdown" value="1" />
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="AmigoSwitchPreference">
+        <attr name="amigodisableDependentsState" />
+        <attr name="amigosummaryOff" />
+        <attr name="amigosummaryOn" />
+        <attr name="amigoswitchTextOff" format="string" />
+        <attr name="amigoswitchTextOn" format="string" />
+    </declare-styleable>
+    <declare-styleable name="AmigoSwitch">
+        <attr name="amigoswitchMinWidth" format="dimension" />
+        <attr name="amigoswitchPadding" format="dimension" />
+        <attr name="amigotextOff" format="reference" />
+        <attr name="amigotextOn" format="reference" />
+        <attr name="amigothumb" format="reference" />
+        <attr name="amigothumbTextPadding" format="dimension" />
+        <attr name="amigotrack" format="reference" />
+    </declare-styleable>
+    <declare-styleable name="AmigoTimePicker">
+        <attr name="amigointernalLayout" />
+    </declare-styleable>
+    <declare-styleable name="AmigoVolumePreference">
+        <attr name="amigostreamType">
+            <enum name="alarm" value="4" />
+            <enum name="music" value="3" />
+            <enum name="ring" value="2" />
+            <enum name="system" value="1" />
+            <enum name="voice" value="0" />
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="GridLayout_Layout">
+        <attr name="layout_column" format="integer" />
+        <attr name="layout_columnSpan" format="integer" min="1" />
+        <attr name="layout_columnWeight" format="float" />
+        <attr name="layout_gravity">
+            <flag name="bottom" value="0x00000050" />
+            <flag name="center" value="0x00000011" />
+            <flag name="center_horizontal" value="0x00000001" />
+            <flag name="center_vertical" value="0x00000010" />
+            <flag name="clip_horizontal" value="0x00000008" />
+            <flag name="clip_vertical" value="0x00000080" />
+            <flag name="end" value="0x00800005" />
+            <flag name="fill" value="0x00000077" />
+            <flag name="fill_horizontal" value="0x00000007" />
+            <flag name="fill_vertical" value="0x00000070" />
+            <flag name="left" value="0x00000003" />
+            <flag name="right" value="0x00000005" />
+            <flag name="start" value="0x00800003" />
+            <flag name="top" value="0x00000030" />
+        </attr>
+        <attr name="layout_row" format="integer" />
+        <attr name="layout_rowSpan" format="integer" min="1" />
+        <attr name="layout_rowWeight" format="float" />
+    </declare-styleable>
+    <declare-styleable name="GridLayout">
+        <attr name="alignmentMode">
+            <enum name="alignBounds" value="0" />
+            <enum name="alignMargins" value="1" />
+        </attr>
+        <attr name="columnCount" format="integer" />
+        <attr name="columnOrderPreserved" format="boolean" />
+        <attr name="orientation">
+            <enum name="horizontal" value="0" />
+            <enum name="vertical" value="1" />
+        </attr>
+        <attr name="rowCount" format="integer" />
+        <attr name="rowOrderPreserved" format="boolean" />
+        <attr name="useDefaultMargins" format="boolean" />
+    </declare-styleable>
+    <declare-styleable name="RecyclerView">
+        <attr name="layoutManager" format="string" />
+        <attr name="reverseLayout" format="boolean" />
+        <attr name="spanCount" format="integer" />
+        <attr name="stackFromEnd" format="boolean" />
+    </declare-styleable>
+    <declare-styleable name="amigoOptionMenu">
+        <attr name="amigooptionMenuMoreBg" format="reference" />
+    </declare-styleable>
+</resources>

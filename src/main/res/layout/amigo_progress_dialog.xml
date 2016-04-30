@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/amigo_body" android:padding="@dimen/amigo_progress_dialog_padding" android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="false">
+        <amigoui.widget.AmigoProgressBar android:layout_gravity="center_horizontal" android:id="@+id/amigo_progress" android:layout_width="wrap_content" android:layout_height="wrap_content" android:max="10000" style="?android:attr/progressBarStyle" />
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:textSize="@dimen/amigo_textSizeAlertDialogBtn" android:textColor="?amigo_dialog_content_text_color" android:layout_gravity="center_horizontal" android:id="@+id/amigo_message" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/amigo_progress_dialog_text_margin_top" />
+    </LinearLayout>
+</FrameLayout>

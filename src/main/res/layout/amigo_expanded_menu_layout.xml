@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.amigoui.internal.view.menu.ExpandedMenuView android:id="@+id/amigo_expanded_menu" android:layout_width="?amigopanelMenuListWidth" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

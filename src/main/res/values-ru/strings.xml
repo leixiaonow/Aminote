@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="amigo_time_picker_dialog_title">Установка времени</string>
+    <string name="amigo_date_picker_dialog_title">Установка даты</string>
+    <string name="amigo_date_time_done">Готово</string>
+    <string name="amigo_copy">Копировать</string>
+    <string name="amigo_paste">Вставить</string>
+    <string name="amigo_cut">Вырезать</string>
+    <string name="amigo_selectAll">Выбрать все</string>
+    <string name="amigo_select">Выбрать</string>
+    <string name="amigo_inputMethod">Метод ввода</string>
+    <string name="amigo_action_bar_up_description">Вверх</string>
+    <string name="amigo_action_bar_home_description">Домой</string>
+    <string name="amigo_smart_full_btn_label">OK</string>
+    <string name="amigo_capital_on">Вкл.</string>
+    <string name="amigo_capital_off">Выкл.</string>
+    <string name="amigo_cancel">Отмена</string>
+    <string name="amigo_action_mode_done">Готово</string>
+    <string name="amigo_activity_resolver_use_always">Всегда</string>
+    <string name="amigo_activity_resolver_use_once">Один раз</string>
+    <string name="amigo_back_button_label">Назад</string>
+    <string name="amigo_chooseActivity">Выбрать действие</string>
+    <string name="amigo_next_button_label">Дальше</string>
+    <string name="amigo_no">Отмена</string>
+    <string name="amigo_noApplications">Нет приложения которое может совершить данное действие</string>
+    <string name="amigo_ok">OK</string>
+    <string name="amigo_skip_button_label">Пропустить</string>
+    <string name="amigo_system_label">Система Android</string>
+    <string name="amigo_whichApplication">Что использовать</string>
+    <string name="amigo_yes">OK</string>
+    <string name="amigo_app_name">AmigoUI</string>
+</resources>

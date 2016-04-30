@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.gionee.note.feedback.ReplyInfoItem android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@+id/gn_fb_id_replyviewline" android:background="@color/fb_answer_line_bg_color" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginTop="@dimen/fb_padding" />
+    <TextView android:textSize="@dimen/fb_feedback_record_faq_text_size" android:textColor="@color/fb_feedback_record_item_answer_text_color" android:id="@+id/gn_fb_id_replycontent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/fb_margin" android:layout_marginTop="@dimen/fb_padding" android:layout_marginRight="@dimen/fb_margin" />
+    <TextView android:textSize="@dimen/fb_feedback_record_time_text_size" android:textColor="@color/fb_feedback_record_time_color" android:id="@+id/gn_fb_id_reply_person" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/fb_margin" android:layout_marginTop="@dimen/fb_padding" android:layout_marginRight="@dimen/fb_margin" android:text="@string/fb_reply_person" />
+    <TextView android:textSize="@dimen/fb_feedback_record_time_text_size" android:textColor="@color/fb_feedback_record_time_color" android:id="@+id/gn_fb_id_replydate" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/fb_margin" android:layout_marginTop="@dimen/fb_padding" android:layout_marginRight="@dimen/fb_margin" />
+</com.gionee.note.feedback.ReplyInfoItem>

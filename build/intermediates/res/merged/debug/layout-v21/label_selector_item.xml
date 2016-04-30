@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="@dimen/label_selector_dialog_list_item_height" android:minHeight="@dimen/label_selector_dialog_list_item_height" style="@style/ChickBgEffect"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBox android:id="@+id/label_select_list_item_checkbox" android:background="@null" android:clickable="false" android:layout_width="@dimen/label_selector_dialog_checkbox_width" android:layout_height="@dimen/label_selector_dialog_list_item_height" android:layout_alignParentRight="true" android:buttonTint="@color/check_box_state_color" />
+    <TextView android:textSize="@dimen/label_selector_dialog_list_item_text_size" android:textColor="@color/label_selector_dialog_list_item_text_color" android:gravity="center_vertical" android:id="@+id/label_select_list_item_text" android:paddingLeft="@dimen/label_selector_dialog_padding_left" android:layout_width="fill_parent" android:layout_height="@dimen/label_selector_dialog_list_item_height" android:layout_toLeftOf="@+id/label_select_list_item_checkbox" />
+</RelativeLayout>

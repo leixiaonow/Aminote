@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.amigoui.internal.widget.AmigoActionBarContainer android:id="@+id/amigo_action_bar_container" android:layout_width="fill_parent" android:layout_height="wrap_content" style="?attr/amigoactionBarStyle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.amigoui.internal.widget.AmigoExtraViewContainer android:id="@+id/amigo_action_bar_intellgent_container" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <FrameLayout android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.amigoui.internal.widget.AmigoActionBarView android:id="@+id/amigo_action_bar" android:layout_width="fill_parent" android:layout_height="wrap_content" style="?attr/amigoactionBarStyle" />
+    </FrameLayout>
+    <com.amigoui.internal.widget.AmigoActionBarContextView android:id="@+id/amigo_action_context_bar" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" style="?attr/amigoactionBarStyle" />
+</com.amigoui.internal.widget.AmigoActionBarContainer>

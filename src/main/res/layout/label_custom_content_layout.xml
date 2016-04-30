@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/abstract_note_activity_root_bg_color" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.gionee.note.app.view.NoteLabelAddView android:orientation="horizontal" android:id="@+id/note_label_add_view" android:background="@color/label_custom_edit_text_background" android:layout_width="fill_parent" android:layout_height="@dimen/label_custom_edit_height" android:layout_marginLeft="@dimen/label_custom_edit_margin_left" android:layout_marginTop="@dimen/label_custom_edit_margin_top" android:layout_marginRight="@dimen/label_custom_edit_margin_right" android:layout_marginBottom="@dimen/label_custom_edit_margin_bottom">
+        <amigoui.widget.AmigoEditText android:textSize="@dimen/label_custom_edit_text_size" android:textColor="@color/label_custom_list_item_text_color" android:textColorHint="@color/label_custom_edit_text_hint_color" android:id="@+id/label_custom_edit_text" android:background="@null" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/label_custom_edit_text_padding_left" android:hint="@string/label_custom_edit_text_hint" android:scrollHorizontally="true" android:singleLine="true" android:layout_weight="1.0" android:imeOptions="actionDone" android:textCursorDrawable="@drawable/edit_cursor_dw" />
+        <ImageView android:id="@+id/label_custom_edit_button" android:layout_width="wrap_content" android:layout_height="fill_parent" style="@style/label_custom_edit_button_style" />
+    </com.gionee.note.app.view.NoteLabelAddView>
+    <ListView android:id="@+id/label_custom_list" android:layout_width="fill_parent" android:layout_height="wrap_content" android:divider="@null" style="@style/ListSelectorEffect" />
+</LinearLayout>

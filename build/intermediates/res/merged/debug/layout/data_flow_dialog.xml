@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <amigoui.widget.AmigoTextView android:textSize="@dimen/data_flow_dialog_content_textsize" android:id="@+id/authority_alert_user_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/data_flow_dialog_content_margin" android:layout_marginRight="@dimen/data_flow_dialog_content_margin" android:text="@string/data_flow_alert_user_content" />
+    <amigoui.widget.AmigoCheckBox android:textSize="@dimen/data_flow_dialog_checkbox_textsize" android:id="@+id/authority_alert_user_checkBox" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/data_flow_dialog_checkbox_margin" android:layout_marginBottom="@dimen/data_flow_dialog_checkbox_margin" android:text="@string/data_flow_alert_user_checkbox" />
+</LinearLayout>

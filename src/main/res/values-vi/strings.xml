@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="amigo_time_picker_dialog_title">Thiết lập thời gian</string>
+    <string name="amigo_date_picker_dialog_title">Thiết lập ngày tháng năm</string>
+    <string name="amigo_date_time_done">Xong</string>
+    <string name="amigo_copy">Sao chép</string>
+    <string name="amigo_paste">Dán</string>
+    <string name="amigo_cut">Cắt</string>
+    <string name="amigo_selectAll">Chọn tất cả</string>
+    <string name="amigo_select">Chọn</string>
+    <string name="amigo_inputMethod">Phương thức nhập</string>
+    <string name="amigo_action_bar_up_description">Chuyển lên trên</string>
+    <string name="amigo_action_bar_home_description">Chuyển về màn hình chính</string>
+    <string name="amigo_smart_full_btn_label">OK</string>
+    <string name="amigo_capital_on">Bật</string>
+    <string name="amigo_capital_off">Tắt</string>
+    <string name="amigo_cancel">Hủy bỏ</string>
+    <string name="amigo_action_mode_done">Xong</string>
+    <string name="amigo_activity_resolver_use_always">Luôn Chọn</string>
+    <string name="amigo_activity_resolver_use_once">Chỉ một lần</string>
+    <string name="amigo_back_button_label">Trở về</string>
+    <string name="amigo_chooseActivity">Chọn một thao tác</string>
+    <string name="amigo_next_button_label">Tiếp</string>
+    <string name="amigo_no">Hủy bỏ</string>
+    <string name="amigo_noApplications">Không có ứng dụng nào có thể thực hiện thao tác này.</string>
+    <string name="amigo_ok">OK</string>
+    <string name="amigo_skip_button_label">Bỏ qua</string>
+    <string name="amigo_system_label">Hệ thống Android</string>
+    <string name="amigo_whichApplication">Hoàn thành thao tác bằng</string>
+    <string name="amigo_yes">OK</string>
+    <string name="amigo_app_name">AmigoUI</string>
+</resources>

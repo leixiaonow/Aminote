@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="amigo_time_picker_dialog_title">Configurar hora</string>
+    <string name="amigo_date_picker_dialog_title">Configurar fecha</string>
+    <string name="amigo_date_time_done">Confirmar</string>
+    <string name="amigo_copy">Copiar</string>
+    <string name="amigo_paste">Pegar</string>
+    <string name="amigo_cut">Cortar</string>
+    <string name="amigo_selectAll">Seleccionar todo</string>
+    <string name="amigo_select">Seleccionar</string>
+    <string name="amigo_inputMethod">Introducción</string>
+    <string name="amigo_action_bar_up_description">Ir a la página anterior</string>
+    <string name="amigo_action_bar_home_description">Ir a la Página Principal</string>
+    <string name="amigo_smart_full_btn_label">Aceptar</string>
+    <string name="amigo_capital_on">ON</string>
+    <string name="amigo_capital_off">OFF</string>
+    <string name="amigo_cancel">Cancelar</string>
+    <string name="amigo_action_mode_done">Confirmar</string>
+    <string name="amigo_activity_resolver_use_always">Siempre</string>
+    <string name="amigo_activity_resolver_use_once">Sólo una vez</string>
+    <string name="amigo_back_button_label">Atrás</string>
+    <string name="amigo_chooseActivity">Elegir una acción</string>
+    <string name="amigo_next_button_label">Siguiente</string>
+    <string name="amigo_no">Cancelar</string>
+    <string name="amigo_noApplications">Ninguna aplicación puede realizar la actividad solicitada</string>
+    <string name="amigo_ok">Aceptar</string>
+    <string name="amigo_skip_button_label">Saltar</string>
+    <string name="amigo_system_label">Android</string>
+    <string name="amigo_whichApplication">Completar la acción con</string>
+    <string name="amigo_yes">Aceptar</string>
+    <string name="amigo_app_name">Interfaz Amigo</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:enabled="false" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingEnd="20.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="left|center" android:id="@+id/amigo_up" android:background="?android:actionBarItemBackground" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="?android:homeAsUpIndicator" />
+    <View android:id="@+id/amigo_empty_view" android:background="@null" android:visibility="gone" android:layout_width="16.0dip" android:layout_height="fill_parent" />
+    <LinearLayout android:layout_gravity="left|center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingStart="20.0dip">
+        <TextView android:ellipsize="end" android:id="@+id/amigo_action_bar_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+        <TextView android:ellipsize="end" android:id="@+id/amigo_action_bar_subtitle" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/amigo_action_bar_subtitle_top_margin" android:singleLine="true" />
+    </LinearLayout>
+</LinearLayout>

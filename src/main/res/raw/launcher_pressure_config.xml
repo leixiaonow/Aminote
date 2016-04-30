@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PressureSensorConfig version="1.0">
+
+    <!-- uniqueKey The unique difference identifies each record-->
+    <!-- titleName and iconName is the name config in String.xml and drawable folder -->
+    <!-- intentType 1:activity 2:broadcast 3:start service 4: stop service -->
+    <!-- intent value is the string if Intent Object Uri ( intent.toURI() )-->
+
+    <menu iconName="ic_launcher_new_note_icon" iconNameType="1"
+        intent="#Intent;action=note.intent.action.createNewNote;B.enable_edit_mode=true;end"
+        intentType="1" position="1" titleName="pressure_sensor_menu_newnote" titleNameType="1"
+        uniqueKey="note_menu1" />
+
+    <menu iconName="ic_launcher_search_note_icon" iconNameType="1"
+        intent="#Intent;action=note.intent.action.search;launchFlags=0x10000000;end" intentType="1"
+        position="2" titleName="pressure_sensor_menu_search" titleNameType="1"
+        uniqueKey="note_menu2" />
+
+</PressureSensorConfig>
+

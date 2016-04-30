@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridView android:background="@color/dialog_background" android:paddingLeft="@dimen/attachment_selector_dialog_grid_padding_left" android:paddingRight="@dimen/attachment_selector_dialog_grid_padding_right" android:layout_width="fill_parent" android:layout_height="@dimen/attachmeng_selector_dialog_height" android:stretchMode="columnWidth" android:numColumns="@integer/attachment_selector_dialog_grid_column" style="@style/ListSelectorEffect"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

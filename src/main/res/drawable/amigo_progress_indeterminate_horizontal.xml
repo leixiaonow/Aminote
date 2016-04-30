@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="50" android:drawable="@drawable/amigo_progressbar_indeterminate_1" />
+    <item android:duration="50" android:drawable="@drawable/amigo_progressbar_indeterminate_2" />
+    <item android:duration="50" android:drawable="@drawable/amigo_progressbar_indeterminate_3" />
+    <item android:duration="50" android:drawable="@drawable/amigo_progressbar_indeterminate_4" />
+    <item android:duration="50" android:drawable="@drawable/amigo_progressbar_indeterminate_5" />
+    <item android:duration="50" android:drawable="@drawable/amigo_progressbar_indeterminate_6" />
+    <item android:duration="50" android:drawable="@drawable/amigo_progressbar_indeterminate_7" />
+    <item android:duration="50" android:drawable="@drawable/amigo_progressbar_indeterminate_8" />
+    <item android:duration="50" android:drawable="@drawable/amigo_progressbar_indeterminate_9" />
+    <item android:duration="50" android:drawable="@drawable/amigo_progressbar_indeterminate_10" />
+    <item android:duration="50" android:drawable="@drawable/amigo_progressbar_indeterminate_11" />
+    <item android:duration="50" android:drawable="@drawable/amigo_progressbar_indeterminate_12" />
+    <item android:duration="50" android:drawable="@drawable/amigo_progressbar_indeterminate_13" />
+    <item android:duration="50" android:drawable="@drawable/amigo_progressbar_indeterminate_14" />
+    <item android:duration="50" android:drawable="@drawable/amigo_progressbar_indeterminate_15" />
+    <item android:duration="50" android:drawable="@drawable/amigo_progressbar_indeterminate_16" />
+    <item android:duration="50" android:drawable="@drawable/amigo_progressbar_indeterminate_17" />
+    <item android:duration="50" android:drawable="@drawable/amigo_progressbar_indeterminate_18" />
+    <item android:duration="50" android:drawable="@drawable/amigo_progressbar_indeterminate_19" />
+    <item android:duration="50" android:drawable="@drawable/amigo_progressbar_indeterminate_20" />
+    <item android:duration="50" android:drawable="@drawable/amigo_progressbar_indeterminate_21" />
+    <item android:duration="50" android:drawable="@drawable/amigo_progressbar_indeterminate_22" />
+    <item android:duration="50" android:drawable="@drawable/amigo_progressbar_indeterminate_23" />
+</animation-list>

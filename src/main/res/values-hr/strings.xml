@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="amigo_time_picker_dialog_title">Postavljanje vremena</string>
+    <string name="amigo_date_picker_dialog_title">Postavite datum</string>
+    <string name="amigo_date_time_done">Pospremljen</string>
+    <string name="amigo_copy">Kopija</string>
+    <string name="amigo_paste">Paste</string>
+    <string name="amigo_cut">Rez</string>
+    <string name="amigo_selectAll">Odaberi sve</string>
+    <string name="amigo_select">Odabrati</string>
+    <string name="amigo_inputMethod">Način unosa</string>
+    <string name="amigo_action_bar_up_description">Krećite se</string>
+    <string name="amigo_action_bar_home_description">Kretanje dom</string>
+    <string name="amigo_smart_full_btn_label">OK</string>
+    <string name="amigo_capital_on">ON</string>
+    <string name="amigo_capital_off">OFF</string>
+    <string name="amigo_cancel">Otkazati</string>
+    <string name="amigo_action_mode_done">Pospremljen</string>
+    <string name="amigo_activity_resolver_use_always">Uvijek</string>
+    <string name="amigo_activity_resolver_use_once">Samo jednom</string>
+    <string name="amigo_back_button_label">Natrag</string>
+    <string name="amigo_chooseActivity">Odaberite radnju</string>
+    <string name="amigo_next_button_label">Sljedeći</string>
+    <string name="amigo_no">Otkazati</string>
+    <string name="amigo_noApplications">Nema aplikacije mogu obavljati ovu akciju.</string>
+    <string name="amigo_ok">OK</string>
+    <string name="amigo_skip_button_label">Preskočiti</string>
+    <string name="amigo_system_label">Android sustav</string>
+    <string name="amigo_whichApplication">Kompletan akciju pomoću</string>
+    <string name="amigo_yes">OK</string>
+    <string name="amigo_app_name">Amigo UI</string>
+</resources>
